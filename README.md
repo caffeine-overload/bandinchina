@@ -1,5 +1,7 @@
 # Naming and shaming companies who kowtow to Chinese censorship requests
 
+There is a separate [whitelist](whitelist.md) for companies who have refused to comply to China's demands
+
 | Name of Company | Date Added | Why added |
 | --------------- | ---------- | --------- |
 | Blizzard Entertainment | 2019-10-08 | Banned a player who voiced support for the HK protests |
