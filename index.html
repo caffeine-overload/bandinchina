@@ -23,7 +23,7 @@
 
       <ul class="list-unstyled list-inline">
         <li class="list-inline-item">
-          <a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina">GitHub</a>
+          <a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina" target="_blank">GitHub</a>
         </li>
       </ul>
 
@@ -63,18 +63,25 @@
 
       $.get("./README.md", function(data)
       {
-        // render 
+        // render the markdown into HTML
         const render = (new showdown.Converter({ tables: true }))
           .makeHtml(data);
 
+        // replace the main content with the rendered .md
         $(" #blacklist ").html(render);
 
         $(" #blacklist table ").addClass("table table-hover");
 
+        // replace source links with actual anchors
         $(" #blacklist table > tbody td:nth-child(5) ")
           .each(function()
           {
-            $(this).html(`<a href="${$(this).text()}">Source</a>`);
+            let sources = $(this).text().split(" ")
+              , sourceAnchors = [];
+            for (const src of sources)
+              sourceAnchors.push(`<a href="${src}">Source</a>`);
+
+            $(this).html(sourceAnchors.join(" "));
           });
       });
 
