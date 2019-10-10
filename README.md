@@ -2,7 +2,7 @@
 
 Stand with Hong Kong!
 
-There is a separate [whitelist](whitelist.md) for companies who have refused to comply to China's demands
+There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
 
 | Name of Company | Date Occurred | Date Added | Why added | Sources |
 | --------------- | ------------ | ---------- | --------- | ------- |
