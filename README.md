@@ -41,6 +41,7 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | Lancome (L'Oreal) | N/A | 2019-10-09 | Canceled Denise Ho concert after Denise Ho expressed support for 2014 Hong Kong protests | https://www.bbc.co.uk/news/world-asia-china-36457450 |
 | Givenchy | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
 | Coach | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
-| Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html
+| Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
+| JYP Entertainment | 2016-01-16 | 2019-10-11 | Forced Taiwanese kpop idol Chou Tzu-yu to release an apology video after she was seen waving a Taiwan flag | https://www.nytimes.com/2016/01/17/world/asia/taiwan-china-singer-chou-tzu-yu.html |
 
 [//]: # "END:TABLE"
