@@ -1,3 +1,4 @@
+
 # Naming and shaming companies who kowtow to Chinese censorship requests
 
 Stand with Hong Kong!
@@ -36,3 +37,6 @@ There is a separate [whitelist](whitelist.md) for companies who have refused to 
 | Rockhampton Council, Queensland, Australia | N/A | 2019-10-09 | Removed Taiwan flags from public artwork | https://www.abc.net.au/news/2018-05-09/childrens-cow-statue-design-altered-taiwan-flag-painted-over-qld/9739574 |
 | Global Blue | N/A | 2019-10-09 | Fired a member of staff for calling Taiwan a country | http://www.globaltimes.cn/content/1161789.shtml |
 | Lancome (L'Oreal) | N/A | 2019-10-09 | Canceled Denise Ho concert after Denise Ho expressed support for 2014 Hong Kong protests | https://www.bbc.co.uk/news/world-asia-china-36457450 |
+| Givenchy | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
+| Coach | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
+| Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html
