@@ -61,11 +61,16 @@
     <!-- Making the table work -->
     <script type="text/javascript">
 
-      $.get("./README.md", function(data)
+      $.get("./README.md", function(file)
       {
+        // filter the markdown table using a Regular Expression
+        const tableRegex = /\[\/\/\]: # "BEGIN:TABLE"\n\n(\|(.|\n)*\|)\n\n\[\/\/\]: # "END:TABLE"/m
+          , match = file.match(tableRegex)
+          , tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
+
         // render the markdown into HTML
         const render = (new showdown.Converter({ tables: true }))
-          .makeHtml(data);
+          .makeHtml(tableMD);
 
         // replace the main content with the rendered .md
         $(" #blacklist ").html(render);

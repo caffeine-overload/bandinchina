@@ -4,6 +4,8 @@ Stand with Hong Kong!
 
 There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
 
+[//]: # "BEGIN:TABLE"
+
 | Name of Company | Date Occurred | Date Added | Why added | Sources |
 | --------------- | ------------ | ---------- | --------- | ------- |
 | Blizzard Entertainment | 2019-10-05 | 2019-10-08 | Banned a player who voiced support for the HK protests, rescinded his prize money and fired the 2 casters that were with him on air | https://edition.cnn.com/2019/10/08/tech/hearthstone-hong-kong-intl-hnk-scli/ https://kotaku.com/blizzard-suspends-hearthstone-player-for-hong-kong-supp-1838864961 https://playhearthstone.com/en-us/blog/23179289 |
@@ -36,3 +38,5 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | Rockhampton Council, Queensland, Australia | N/A | 2019-10-09 | Removed Taiwan flags from public artwork | https://www.abc.net.au/news/2018-05-09/childrens-cow-statue-design-altered-taiwan-flag-painted-over-qld/9739574 |
 | Global Blue | N/A | 2019-10-09 | Fired a member of staff for calling Taiwan a country | http://www.globaltimes.cn/content/1161789.shtml |
 | Lancome (L'Oreal) | N/A | 2019-10-09 | Canceled Denise Ho concert after Denise Ho expressed support for 2014 Hong Kong protests | https://www.bbc.co.uk/news/world-asia-china-36457450 |
+
+[//]: # "END:TABLE"
