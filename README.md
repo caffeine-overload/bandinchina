@@ -3,7 +3,9 @@
 
 Stand with Hong Kong!
 
-There is a separate [whitelist](whitelist.md) for companies who have refused to comply to China's demands
+There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
+
+[//]: # "BEGIN:TABLE"
 
 | Name of Company | Date Occurred | Date Added | Why added | Sources |
 | --------------- | ------------ | ---------- | --------- | ------- |
@@ -40,3 +42,5 @@ There is a separate [whitelist](whitelist.md) for companies who have refused to 
 | Givenchy | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
 | Coach | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
 | Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html
+
+[//]: # "END:TABLE"
