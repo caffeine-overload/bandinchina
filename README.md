@@ -44,5 +44,32 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
 | JYP Entertainment | 2016-01-16 | 2019-10-11 | Forced Taiwanese kpop idol Chou Tzu-yu to release an apology video after she was seen waving a Taiwan flag | https://www.nytimes.com/2016/01/17/world/asia/taiwan-china-singer-chou-tzu-yu.html |
 | Tiktok | 2019-09 | 2019-10-11 | Instructed moderators to censor videos that would upset Beijing | https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing |
+| AMD | 2019-09 | 2019-10-11 | Added China to the end of all of its Taiwan addresses | https://www.amd.com/en/corporate/contact/locations |
+| Fedex | 2019-09 | 2019-10-11 | De-listed Taiwan as a country on their website, instead listing it as a province of China | 
+https://www.fedex.com/global/choose-location.html |
+| UPS | 2019-09 | 2019-10-11 | De-listed Taiwan as a country on their website, instead listing it as a province of China | 
+https://www.ups.com/us/en/global.page |
+| TNT | 2019-09 | 2019-10-11 | De-listed Taiwan as a country on their website, instead listing it as a province of China | 
+https://www.tnt.com/ |
+| Goodyear | 2019-09 | 2019-10-11 | De-listed Taiwan as a country on their website, instead listing it as a province of China | 
+https://www.goodyear.com/en-US/international |
+| Coca-Cola | 2019-08 | 2019-10-11 | De-listed Taiwan as a country on their website, instead listing it as a province of China | 
+https://www.coca-cola.com/ |
+| Unilever | 2019-08 | 2019-10-11 | De-listed Taiwan as a country on their website, instead listing it as a province of China | 
+https://www.unilever.com/ |
+| American Express | 2019-08 | 2019-10-11 | De-listed Taiwan as a country/region on their website, instead listing it as a province of China | 
+https://www.americanexpress.com/change-country/ |
+| Adidas | 2019-08 | 2019-10-11 | Removed flags of both Hong Kong and Taiwan | 
+https://www.adidas.com.au/location-selector.html |
+| Puma | 2018-06 | 2019-10-11 | Moved listing of Taiwan to be a part of China | 
+https://global.puma.com/ |
+| Peugeot | N/A | 2019-10-11 | Listed Taiwan as part of China | 
+http://www.peugeot.com/en |
+| Citroen | N/A | 2019-10-11 | Listed Taiwan as part of China | 
+https://www.citroen.com/en/ |
+| Ford | N/A | 2019-10-11 | Listed Taiwan as part of China | 
+https://corporate.ford.com/global-links.html#s0f17 |
+| MARS | N/A | 2019-10-11 | Listed Taiwan as part of China | 
+https://www.mars.com/locations |
 
 [//]: # "END:TABLE"
