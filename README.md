@@ -43,5 +43,6 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | Coach | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
 | Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html |
 | JYP Entertainment | 2016-01-16 | 2019-10-11 | Forced Taiwanese kpop idol Chou Tzu-yu to release an apology video after she was seen waving a Taiwan flag | https://www.nytimes.com/2016/01/17/world/asia/taiwan-china-singer-chou-tzu-yu.html |
+| Tiktok | 2019-10-08 | 2019-10-11 | Censorship of Hong Kong related events on their app | https://www.cnbc.com/2019/10/09/rubio-asks-us-to-investigate-china-based-tiktok-for-censorship.html
 
 [//]: # "END:TABLE"
