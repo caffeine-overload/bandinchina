@@ -92,20 +92,7 @@
 
         // replace the main content with the rendered .md
         $(" #blacklist ").html(render);
-
         $(" #blacklist table ").addClass("table table-hover");
-
-        // replace source links with actual anchors
-        $(" #blacklist table > tbody td:nth-child(5) ")
-          .each(function()
-          {
-            let sources = $(this).text().split(" ")
-              , sourceAnchors = [];
-            for (const src of sources)
-              sourceAnchors.push(`<a href="${src}">Source</a>`);
-
-            $(this).html(sourceAnchors.join(" "));
-          });
       });
 
     </script>
