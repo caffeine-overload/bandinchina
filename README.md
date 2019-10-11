@@ -1,6 +1,8 @@
 
 # Naming and shaming companies who kowtow to Chinese censorship requests
 
+View the website at [https://caffeine-overload.github.io/bandinchina/](https://caffeine-overload.github.io/bandinchina/)
+
 Stand with Hong Kong!
 
 There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
