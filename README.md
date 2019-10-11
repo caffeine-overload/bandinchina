@@ -1,5 +1,5 @@
 
-# Naming and shaming companies who kowtow to Chinese censorship requests
+# Naming and shaming companies who bend the knee to Chinese censorship requests
 
 Stand with Hong Kong!
 
