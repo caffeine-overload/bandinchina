@@ -46,3 +46,7 @@ footer {
 .table td:nth-child(4) {
   text-align: left;
 }
+
+.tablesorter-header {
+  cursor: pointer;
+}

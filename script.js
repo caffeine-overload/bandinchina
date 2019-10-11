@@ -99,6 +99,9 @@ function renderMarkdown(params = {}) {
     $("#content").html(render);
     $("#content table").addClass("table table-hover");
 
+    // sort the table by first column ascending
+    $(" #content table ").tablesorter({ sortList: [[0, 0]] });
+
     if (initialRender) {
       initialRender = false;
     } else {
