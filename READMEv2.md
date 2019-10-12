@@ -15,9 +15,22 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   </h2>  
 </a>
 
-- [How to help Hong Kong protests from abroad](#help-hk)
-- [Whitelisted Companies](#whitelisted-companies)
-- [Blacklisted Companies](#blacklisted-companies)
+* [How to help Hong Kong protests from abroad](#help-hk)
+  * [General](#help-hk-general)
+  * [Monetary & Non-monetary Donations](#help-hk-monetary-and-non-monetary-donations)
+  * [United States of America](#help-hk-usa)
+  * [United Kingdom](#help-hk-uk)
+  * [Canada](#help-hk-can)
+  * [Australia](#help-hk-aus)
+  * [New Zealand](#help-hk-nz)
+  * [Europe](#help-hk-eu)
+  * [China](#help-hk-cn)
+  * [Others](#help-hk-others)
+* [Past Achievements](#past-achievements)
+* [Whitelisted Companies](#whitelisted-companies)
+* [Blacklisted Companies](#blacklisted-companies)
+
+---
 
 <a name="help-hk">
   <h2>
@@ -33,8 +46,11 @@ Below is a list of ways to help Hong Kong from abroad. Currently, the list is be
 Please feel free to request to add or remove entities from this list.
 
 ---
-
-## GENERAL - anyone can sign the petitions below (no citizenship pre-requisite)
+<a name="help-hk-general">
+  <h2>
+    GENERAL - anyone can sign the petitions below (no citizenship pre-requisite)
+  </h2>  
+</a>
 
 1.1 Write to Carrie Lam urging her to IMMEDIATELY WITHDRAW the extradition bill [[Amnesty International]](https://www.amnesty.org/en/get-involved/take-action/stop-the-hong-kong-extradition-bill/)
 
@@ -71,8 +87,11 @@ Please feel free to request to add or remove entities from this list.
 1.17 Petition to terminate franchise Starbucks to Maxim's in Hong Kong [[Change.org Starbucks]](https://www.change.org/p/management-and-shareholders-of-starbucks-starbucks-to-stop-giving-franchise-to-hong-kong-maxim-s-group-%E8%81%AF%E7%BD%B2%E8%A6%81%E6%B1%82starbucks-%E5%81%9C%E6%AD%A2%E7%BE%8E%E5%BF%83%E5%9C%A8%E6%B8%AF%E5%B0%88%E7%87%9F%E6%AC%8A)
 
 ---
-
-## MONETARY AND NON-MONETARY DONATIONS
+<a name="help-hk-monetary-and-non-monetary-donations">
+  <h2>
+    MONETARY AND NON-MONETARY DONATIONS
+  </h2>  
+</a>
 
 2.1 612 Humanitarian Relief Fund [[Legal Aid]](https://www.facebook.com/612Fund/posts/379578696075634)
 
@@ -100,9 +119,12 @@ Please feel free to request to add or remove entities from this list.
 
 ---
 <br>
+<a name="help-hk-usa">
 <img src="public/assets/images/flag-of-United-States-of-America.png">
-
-## UNITED STATES OF AMERICA (USA)
+  <h2>
+    UNITED STATES OF AMERICA (USA)
+  </h2>  
+</a>
 
 3.1 Write to US Congress (Senators and Representatives)
 
@@ -124,9 +146,12 @@ Please feel free to request to add or remove entities from this list.
 
 ---
 <br>
+<a name="help-hk-uk">
 <img src="public/assets/images/flag-of-United-Kingdom.png">
-
-## UNITED KINGDOM (UK)
+  <h2>
+    UNITED KINGDOM (UK)
+  </h2>  
+</a>
 
 4.1 Write to your [[Members of Parliament]](https://www.parliament.uk/get-involved/contact-your-mp/
 ) (UK)
@@ -138,68 +163,90 @@ Please feel free to request to add or remove entities from this list.
 
 ---
 <br>
+<a name="help-hk-can">
 <img src="public/assets/images/flag-of-Canada.png">
-
-## CANADA
+  <h2>
+    CANADA (CAN)
+  </h2>  
+</a>
 
 5.1 Write to your [[Members of Parliament]](https://www.ourcommons.ca/Parliamentarians/en/constituencies/FindMP) (CAN)
 
 
 5.2 Stand up for Hong Kong and [[petition]](https://chkl.ca ) to Canadian MPs and Federal Elections Candidates **(Deadline: Oct 20th)**
 
-5.3 `#BoycottBlizzard` if you are a Canadian player, instead of just deleting your account, you should request PIPEDA (Personal Information Protection and Electronics Documents Act) and if they do not comply within 30 days, you can complaint to the Canada's Federal Privacy Commissioner
+5.3 `#BoycottBlizzard` if you are a Canadian player, instead of just deleting your account, [[you should request PIPEDA]](https://www.reddit.com/r/HongKong/comments/dfcncg/dont_just_delete_your_account_you_can_request) (Personal Information Protection and Electronics Documents Act) and if they do not comply within 30 days, you can complaint to the Canada's Federal Privacy Commissioner
 
 ---
+<br>
+<a name="help-hk-aus">
+<img src="public/assets/images/flag-of-Australia.png">
+  <h2>
+    AUSTRALIA (AUS)
+  </h2>  
+</a>
 
-AUSTRALIA
+6.1 Write to your [[Senators and Members of Parliament]](https://www.aph.gov.au/senators_and_members/guidelines_for_contacting_senators_and_members) (AUS)
 
-6.1 Write to your Senators and Members of Parliament (AUS)
+6.2 [[Australian Taxpayers' Alliance Campaign]](https://www.taxpayers.org.au/save-hong-kong) to save Hong Kong 
 
-https://www.aph.gov.au/senators_and_members/guidelines_for_contacting_senators_and_members
+6.3 Expel the Chinese Consul General in Brisbane, Queensland, Australia [[Dear Australian Prime Minister]](https://www.change.org/p/the-prime-minister-of-australia-expel-the-chinese-consul-general-in-brisbane-%E8%A6%81%E6%B1%82%E6%BE%B3%E6%B4%B2%E6%94%BF%E5%BA%9C%E9%A9%85%E9%80%90%E4%B8%AD%E5%85%B1%E9%A7%90%E5%B8%83%E9%87%8C%E6%96%AF%E6%9C%AC%E7%B8%BD%E9%A0%98%E4%BA%8B)
 
-6.2 Australian Taxpayers' Alliance Campaign to Save Hong Kong https://www.taxpayers.org.au/save-hong-kong
+6.4 Impose Sanctions on Persons Found to be Suppressing Human Rights in Hong Kong [[Petition Australian Senate]](https://www.change.org/p/the-senate-of-australia-impose-sanctions-on-persons-found-to-be-suppressing-human-rights-in-hong-kong-df999fe5-3d9f-434b-8f58-d0840619a046)
 
-6.3 Expel the Chinese Consul General in Brisbane, Queensland, Australia [Dear Australian Prime Minister]
+6.5 Petition Australian House of Representative to bring the true condition of Hong Kong’s predicament to the United Nations Human Rights Council [[Petition EN1029]](https://www.aph.gov.au/petition_sign?id=EN1029) **(Dateline: Oct 9th)**
 
-6.4 Impose Sanctions on Persons Found to be Suppressing Human Rights in Hong Kong [Petition Australian Senate]
+6.6 Petition Australia to add Human Rights clauses to the Australia - Hong Kong Free Trade Agreement [[Petition E1032]](https://www.aph.gov.au/petition_sign?id=EN1032) (**Dateline: Oct 9th)**
 
-6.5 Petition Australian House of Representative to bring the true condition of Hong Kong’s predicament to the United Nations Human Rights Council [Petition EN1029] (Dateline: Oct 9th)
+6.7 Petition Australia to grant asylums to Hong Kongers [[Petition EN1022]](https://www.aph.gov.au/petition_list?id=EN1022) **(Dateline: Oct 9th)**
 
-6.6 Petition Australia to add Human Rights clauses to the Australia - Hong Kong Free Trade Agreement [Petition E1032] (Dateline: Oct 9th)
+---
+<br>
+<a name="help-hk-nz">
+<img src="public/assets/images/flag-of-New-Zealand.png">
+  <h2>
+    NEW ZEALAND (NZ)
+  </h2>  
+</a>
 
-6.7 Petition Australia to grant asylums to Hong Kongers [Petition EN1022] (Dateline: Oct 9th)
+7.1 Write to your [[Members of Parliament]](https://www.govt.nz/browse/engaging-with-government/members-of-parliament/) (NZ)
 
+---
+<br>
+<a name="help-hk-eu">
+<img src="public/assets/images/flag_of_Europe.png">
+  <h2>
+    EUROPE (EU)
+  </h2>  
+</a>
 
-
-NEW ZEALAND
-
-7.1 Write to your Members of Parliament (NZ)
-
-https://www.govt.nz/browse/engaging-with-government/members-of-parliament/
-
-
-
-EUROPE (EU)
-
-8.1 Write to Your Members of European Parliament (EU)
-
-http://www.europarl.europa.eu/meps/en/search/advanced
-
-8.2 Petition to Jean Yves Le Drian, Minister of Europe and Foreign Affairs of the French Republic calling for concrete actions against China to respect Hong Kong’s autonomy to prevent a humanitarian crisis Petition to Jean Yves Le Drian
-
-8.3 #BoycottBlizzard If you are an EU player, instead of just deleting your account, you should request GDPR (General Data Protection Regulations) and if they do not comply within 30 days, they will have to pay a hefty fine of 4% of Global Annual Turnover of Blizzard.
-
-
-
-CHINA or CHINESE
-
-9.1 Considering you are reading this on reddit, that means you already know how to use VPN. My suggestion is for you to speak out but be anonymous. Let other Chinese, Hong Kong people, the world know that there are Chinese or Mainland Chinese who do supports the Hong Kong protest.
-
+8.1 Write to Your [[Members of European Parliament]](http://www.europarl.europa.eu/meps/en/search/advanced) (EU)
 
 
-OTHERS
+8.2 Petition to Jean Yves Le Drian, Minister of Europe and Foreign Affairs of the French Republic calling for concrete actions against China to respect Hong Kong’s autonomy to prevent a humanitarian crisis [[Petition to Jean Yves Le Drian]](https://www.change.org/p/m-jean-yves-le-drian-ministre-de-l-europe-et-des-affaires-%C3%A9trang%C3%A8res-de-la-r%C3%A9publique-fran%C3%A7aise-des-mesures-pour-pr%C3%A9venir-une-%C3%A9ventuelle-crise-humanitaire-%C3%A0-hong-kong-fr-en-5a3626a8-8c77-4d6e-8346-141c1ddd6325)
 
-10.1 Switzerland Write to your local representatives https://www.parlament.ch/en/ratsmitglieder?k=
+8.3 `#BoycottBlizzard` if you are an EU player, instead of just deleting your account, [[you should request GDPR]](https://www.reddit.com/r/HongKong/comments/dfcncg/dont_just_delete_your_account_you_can_request) (General Data Protection Regulations) and if they do not comply within 30 days, they will have to pay a hefty fine of 4% of Global Annual Turnover of Blizzard.
+
+---
+<br>
+<a name="help-hk-cn">
+<img src="public/assets/images/flag_of_the_People's_Republic_of_China.png">
+  <h2>
+    CHINA (CN)
+  </h2>  
+</a>
+
+9.1 Speak out but be anonymous. Let other Chinese, Hong Kong people, the world know that there are Chinese or Mainland Chinese who do supports the Hong Kong protest.
+
+---
+<br>
+<a name="help-hk-others">
+  <h2>
+    OTHERS
+  </h2>  
+</a>
+
+10.1 Switzerland Write to your [[local representatives]](https://www.parlament.ch/en/ratsmitglieder?k=)
 
 10.2 Japan Write to your local representatives and councilors
 
@@ -207,126 +254,13 @@ http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm
 
 https://www.sangiin.go.jp/japanese/joho1/kousei/eng/members/index.htm
 
-10.3 Petition Japanese parliamentarians to introduce a Hong Kong Human Rights and Democracy Bill in Japan [Petition Japan]
+10.3 Petition Japanese parliamentarians to introduce a Hong Kong Human Rights and Democracy Bill in Japan [[Petition Japan]](https://www.change.org/p/%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1-%E9%A6%99%E6%B8%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E6%A8%A9%E7%9A%84%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E3%81%91%E3%82%93%E5%88%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81-%E6%97%A5%E6%9C%AC%E7%89%88-%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%A8%A9-%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E6%B3%95%E6%A1%88-%E3%81%AE%E8%AD%B0%E8%AB%96%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%AB%E6%B1%82%E3%82%81%E3%81%BE%E3%81%99?utm_content=cl_sharecopy_17285742_ja-JP%3Av1&recruiter=34591470&recruited_by_id=e96e94b0-151b-0130-6dd2-3c764e049c4f&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial)
 
+---
 
-
-<a name="difficulty">
+<a name="past-achievements">
   <h2>
     <img src="public/assets/images/mei-circle-16x16.png">
-      Too easy? Change difficulty and try thy hand at becoming the top...sphere??
+      Past Achievements
   </h2>  
 </a>
-  Is one enemy too hard? What about two, or five, or twenty! With the option of choosing difficulties, you're able to leave feeling as if you have completed your thesis on...spherical..heroes? I don't know. Just know that you're able to change difficulties. There's even an endless mode for FOREVER BOOM BOOMS!
-
-<a name="collision-logic">
-  <h2>
-    <img src="public/assets/images/mei-circle-16x16.png">
-      Sample Collision Logic
-  </h2>  
-</a>
-
-  Now comes the math portion because math is everywhere. With some slight manipulation of the One-Dimensional Newtonian formula and the Pythagorean formula, collisions and their corresponding angle/velocity responses make the game look very natural like an organic cow. Go ahead, throw a rock and see what happens. Yeah that's Physics and Mathematics but more on that in the future. On a two-dimensional plane, the formula was difficult to adapt to at first, but thanks to [Chris Course](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA) and the [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision) wikipedia, I was able to manipulate the formula on a two-dimensional plane while maintaining the integrity of the responding angles.
-
-``` javascript
-  const handleCollision = (player1, player2) => {
-  let x1 = player1.coordX;
-  let y1 = player1.coordY;
-
-  let x2 = player2.coordX;
-  let y2 = player2.coordY;
-
-  let dx = x2 - x1;
-  let dy = y2 - y1;
-
-  let rotatedAngle = -Math.atan2(dy, dx);
-
-  let u1 = oneDRotation({ x: player1.velocityX, y: player1.velocityY }, rotatedAngle);
-  let u2 = oneDRotation({ x: player2.velocityX, y: player2.velocityY }, rotatedAngle);
-
-  let v1 = { x: u2.x, y: u1.y };
-  let v2 = { x: u1.x, y: u2.y };
-
-  let finalVel1 = oneDRotation(v1, -rotatedAngle);
-  let finalVel2 = oneDRotation(v2, -rotatedAngle);
-
-  player1.velocityX = finalVel1.x;
-  player1.velocityY = finalVel1.y;
-
-  player2.velocityX = finalVel2.x;
-  player2.velocityY = finalVel2.y;
-
-  let xPow = Math.pow(player2.coordX - player1.coordX, 2);
-  let yPow = Math.pow(player2.coordY - player1.coordY, 2);
-  let distance = Math.sqrt(xPow + yPow);
-
-};
-
-const oneDRotation = (velocity, angle) => {
-  const rotatedVelocities = {
-      x: velocity.x * Math.cos(angle * (180/Math.PI)) - velocity.y * Math.sin(angle * (180/Math.PI)),
-      y: velocity.x * Math.sin(angle * (180/Math.PI)) + velocity.y * Math.cos(angle * (180/Math.PI))
-  };
-
-  return rotatedVelocities;
-}
-```
-
-<a name="projectile-logic">
-  <h2>
-    <img src="public/assets/images/mei-circle-16x16.png">
-      Sample Projectile Logic
-  </h2>  
-</a>
-
-  Projectile logic was a tad bit easier as it was limited to only one of the four cardinal directions. By providing a velocity and lifecycle, the bullets were able to become recycled so players don't get a screen full of flying bullets...although that might be a difficulty in the future for the crazy folks. The colors correspond to the elements and depending on what element the player is on, they will only shoot that type of element.
-
-```javascript 
-      this.context.beginPath();
-        this.context.rect(
-          this.posX - (13/2),
-          this.posY + 40,
-          13,
-          13
-        );
-        switch(this.element) {
-          case 'Fire':
-            this.context.fillStyle = 'red';
-            break;
-          case 'Earth':
-            this.context.fillStyle = '#7B1803';
-            break;
-          case 'Lightning':
-            this.context.fillStyle = '#F5EE10';
-            break;
-          case 'Water':
-            this.context.fillStyle = 'blue';
-            break;
-        }
-        this.context.fill();
-        this.context.closePath();
-
-        this.context.beginPath();
-        this.context.arc(this.posX, this.posY + 52, 7, 0, Math.PI);
-        this.context.fillStyle = 'white'
-        this.context.fill();
-        this.context.closePath();
-
-        this.posY += this.velocity;
-        this.lifeline -= 1;
-```
-
-<a name="project-direction">
-  <h2>
-    <img src="public/assets/images/mei-circle-16x16.png">
-      Project Direction
-  </h2>  
-</a>
-
-* Create gifs on my desktop because my laptop sucks
-* Diagonal blasts
-* Boss fights 
-* Ability to counter elemental bullets by changing player element
-* Power-ups
-* Different game music options
-* Scoring system
