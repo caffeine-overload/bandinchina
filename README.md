@@ -1,6 +1,8 @@
 
 # Naming and shaming companies who kowtow to Chinese censorship requests
 
+View the website at [https://caffeine-overload.github.io/bandinchina/](https://caffeine-overload.github.io/bandinchina/)
+
 Stand with Hong Kong!
 
 There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
@@ -45,5 +47,4 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | JYP Entertainment | 2016-01-16 | 2019-10-11 | Forced Taiwanese kpop idol Chou Tzu-yu to release an apology video after she was seen waving a Taiwan flag | https://www.nytimes.com/2016/01/17/world/asia/taiwan-china-singer-chou-tzu-yu.html |
 | Tiktok | 2019-09 | 2019-10-11 | Instructed moderators to censor videos that would upset Beijing | https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing |
 | LinkedIn | 2019-01 | 2019-20-11 | Blocked profiles of pro-democracy Chinese activists from being seen in China, and removes profiles and posts deemed to be "politically sensitive" by the Chinese government | https://www.inkstonenews.com/tech/linkedin-says-profile-political-activist-censored-china-error/article/2180658 |
-
 [//]: # "END:TABLE"
