@@ -32,6 +32,8 @@ Below is a list of ways to help Hong Kong from abroad. Currently, the list is be
 
 Please feel free to request to add or remove entities from this list.
 
+---
+
 ## GENERAL - anyone can sign the petitions below (no citizenship pre-requisite)
 
 1.1 Write to Carrie Lam urging her to IMMEDIATELY WITHDRAW the extradition bill [[Amnesty International]](https://www.amnesty.org/en/get-involved/take-action/stop-the-hong-kong-extradition-bill/)
@@ -68,59 +70,63 @@ Please feel free to request to add or remove entities from this list.
 
 1.17 Petition to terminate franchise Starbucks to Maxim's in Hong Kong [[Change.org Starbucks]](https://www.change.org/p/management-and-shareholders-of-starbucks-starbucks-to-stop-giving-franchise-to-hong-kong-maxim-s-group-%E8%81%AF%E7%BD%B2%E8%A6%81%E6%B1%82starbucks-%E5%81%9C%E6%AD%A2%E7%BE%8E%E5%BF%83%E5%9C%A8%E6%B8%AF%E5%B0%88%E7%87%9F%E6%AC%8A)
 
+---
 
+## MONETARY AND NON-MONETARY DONATIONS
 
-MONETARY AND NON-MONETARY DONATIONS
+2.1 612 Humanitarian Relief Fund [[Legal Aid]](https://www.facebook.com/612Fund/posts/379578696075634)
 
-2.1 612 Humanitarian Relief Fund (Legal Aid) https://www.facebook.com/612Fund/posts/379578696075634
+2.2 Hong Kong Free Press [[Not-for-Profit News]](https://www.hongkongfp.com/support-hkfp/)
 
-2.2 Hong Kong Free Press (Not-for-Profit News) https://www.hongkongfp.com/support-hkfp/
+2.3 The Stand News [[Not-for-Profit News, Cantonese]](https://mystand.thestandnews.com)
 
-2.3 The Stand News (Not-for-Profit News, Cantonese) https://mystand.thestandnews.com
+2.4 Hong Kong Public Opinion Research Institute [[Independent Research]](https://www.pori.hk/donation)
 
-2.4 Hong Kong Public Opinion Research Institute (Independent Research) https://www.pori.hk/donation
+2.5 ~~[[HK Protect]](https://hkprotect.org/shop/%E4%BF%9D%E8%AD%B7%E8%A3%9D%E5%82%99/%E6%8D%90%E8%B4%88%E8%A3%9D%E5%82%99%E9%80%81%E7%B5%A6%E5%89%8D%E7%B7%9A/) Helped supply protective gears to HK protesters~~ (Temporary closed as at Aug 29th)
 
-2.5 HK Protect Helped supply protective gears to HK protesters ( Temporary closed as at Aug 29th)
+2.6 SparkAlliance [[Legal Aid]](https://www.facebook.com/sparkalliancehk/#) (Click on FB "See Translation")
 
-2.6 SparkAlliance (Legal Aid) https://www.facebook.com/sparkalliancehk/# (Click on fb "See Translation")
+2.7 Hong Kong Citizen News [[Not-for-Profit News, Cantonese]](https://www.hkcnews.com/aboutus/)
 
-2.7 Hong Kong Citizen News (Not-for-Profit News, Cantonese) https://www.hkcnews.com/aboutus/
+2.8 A team of Hong Kong Volunteer Medics crowdfunding [[image]](https://i.imgur.com/OOG7U12.jpg) for first aid supplies, saline water to wash eyes from tear gas, helmets, gas mask filters, etc... [[check out the Update tab]](https://gogetfunding.com/fight-for-hong-kongs-freedom)
 
-2.8 A team of Hong Kong Volunteer Medics crowdfunding [Pic] for first aid supplies, saline water to wash eyes from tear gas, helmets, gas mask filters, etc... (check out the Update tab) https://gogetfunding.com/fight-for-hong-kongs-freedom
+2.9 Sue the Abuser [[crowdfunding]](https://www.lsd.org.hk/donate/?lang=en) (accepts PayPal/Credit Card) [[News Article]](https://www.hongkongfp.com/2019/09/19/hk10m-crowdfunding-campaign-aims-help-victims-sue-hong-kong-police-alleged-mistreatment)
 
-2.9 Sue the Abuser crowdfunding https://www.lsd.org.hk/donate/?lang=en (accepts PayPal/Credit Card) [News Article]
+2.10 Hong Kong Higher Institutions International Affairs Delegations (HKIAD) lobbies international governments. An example: lobby US Congress to pass the HK Human Rights and Democracy Act 2019. [[Crowdfunding]](https://gogetfunding.com/hkiad-crowdfunding)
 
-2.10 Hong Kong Higher Institutions International Affairs Delegations (HKIAD) lobbies international governments. An example: lobby US Congress to pass the HK Human Rights and Democracy Act 2019. https://gogetfunding.com/hkiad-crowdfunding
+2.11 How to send protective gears to Hong Kong front line protesters via a US contact [[Click for further information]](https://www.reddit.com/r/HongKong/comments/ddf659/collecting_protective_gears_to_be_sent_to_hong)
 
-2.11 How to send protective gears to Hong Kong front line protesters via a US contact [Click for further information]
+2.12 Giving away free #StandwithHongKong T-shirts at [[Blizzcon 2019]](https://www.facebook.com/events/501411020413254), Los Angeles Oct 31 - Nov 2 [[Crowdfunding]](https://www.gofundme.com/f/blizzcon-shirts-supporting-hong-kong)
 
-2.12 Giving away free #StandwithHongKong T-shirts at Blizzcon 2019, Los Angeles Oct 31 - Nov 2 [Crowdfunding]
+---
+<br>
+<img src="public/assets/images/flag-of-United-States-of-America.png">
 
-
-
-UNITED STATES OF AMERICA (USA)
+## UNITED STATES OF AMERICA (USA)
 
 3.1 Write to US Congress (Senators and Representatives)
 
-https://www.house.gov/representatives/find-your-representative
+[[Find your representative]](https://www.house.gov/representatives/find-your-representative)
 
-https://www.senate.gov/senators/How_to_correspond_senators.htm
-
-3.2 Ask Your US Representatives to Co-Sponsor the Hong Kong Human Rights and Democracy Act of 2019
-
-https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019
-
-3.3 Call your representative https://www.callmycongress.com and tell them you are very concerned about the situation in Hong Kong, the excessive amounts tear gas used, some of which are expired, releases dangerous levels of hydrogen cyanide that could literally kill a person, which qualifies as chemical weapons, a flagrant violation of international law. Please support the Hong Kong Human Rights and Democracy Act 2019 by passing the [House Bill H.R. 3289] / [Senate Bill S.1838] and review/revoke the United States - Hong Kong Policy Act 1992. It's in the interest of leaders who value democracy, international laws, human rights, to stand up for those who don't have the same freedoms we have. Thank you.
-
-3.4 Impose Global Magnitsky Act sanctions against Chinese officials [Petition Global Magnitsky Act]
-
-3.5 Petition 12 US Congress leaders to support the Hong Kong Human Rights and Democracy Act [Pass the Act S.1838/H.R.3289]
-
-3.6 Ask Your US Representatives to Co-Sponsor the Protect Hong Kong Act of 2019 [H.R. 4270] to place restrictions on teargas exports and crowd control technology to Hong Kong
+[[How to correspond Senators]](https://www.senate.gov/senators/How_to_correspond_senators.htm)
 
 
+3.2 Ask Your US Representatives to Co-Sponsor the [[Hong Kong Human Rights and Democracy Act of 2019]](https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019)
 
-UNITED KINGDOM (UK)
+
+3.3 [[Call your representative]](https://www.callmycongress.com) and tell them you are very concerned about the situation in Hong Kong, the excessive amounts tear gas used, some of which are expired, releases dangerous levels of hydrogen cyanide that could literally kill a person, which qualifies as chemical weapons, a flagrant violation of international law. Please support the Hong Kong Human Rights and Democracy Act 2019 by passing the [[House Bill H.R. 3289]](https://www.congress.gov/bill/116th-congress/house-bill/3289) / [[Senate Bill S.1838]](https://www.congress.gov/bill/116th-congress/senate-bill/1838) and review/revoke the United States - Hong Kong Policy Act 1992. It's in the interest of leaders who value democracy, international laws, human rights, to stand up for those who don't have the same freedoms we have. Thank you.
+
+3.4 Impose Global Magnitsky Act sanctions against Chinese officials [[Petition Global Magnitsky Act]](https://petitions.whitehouse.gov/petition/call-imposing-global-magnitsky-act-santions-and-other-measures-against-chinese-officials-and-their-interests)
+
+3.5 Petition 12 US Congress leaders to support the Hong Kong Human Rights and Democracy Act [[Pass the Act S.1838/H.R.3289]](https://www.change.org/p/general-public-support-hong-kong-human-rights-and-democracy-act-s-1838-h-r-3289)
+
+3.6 Ask Your US Representatives to Co-Sponsor the Protect Hong Kong Act of 2019 [[H.R. 4270]](https://www.congress.gov/116/bills/hr4270/BILLS-116hr4270ih.pdf) to place restrictions on teargas exports and crowd control technology to Hong Kong
+
+---
+<br>
+<img src="public/assets/images/flag-of-United-Kingdom.png">
+
+## UNITED KINGDOM (UK)
 
 4.1 Write to your Members of Parliament (UK)
 
