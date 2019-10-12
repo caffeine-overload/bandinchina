@@ -1,7 +1,8 @@
 <p align="center"> 
   <img src="public/assets/images/mei-circle.png">
+  <br/>
   Image Credit:
-  <a src="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">Source</a>
+  <a href="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">Source</a>
   <p align="center"><i>"The only thing necessary for the triumph of evil is for good men to do nothing."</i></p>
   <p align="center">- Edmund Burke</p>
 </p> 
