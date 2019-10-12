@@ -33,10 +33,10 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
 ---
 
 <a name="help-hk">
-  <h2>
+  <h1>
     <img src="public/assets/images/mei-circle-16x16.png">
       How to help Hong Kong protests from abroad
-  </h2>  
+  </h1>  
 </a>
 
 Below is a list of ways to help Hong Kong from abroad. Currently, the list is being updated with this Reddit thread:
@@ -257,10 +257,54 @@ https://www.sangiin.go.jp/japanese/joho1/kousei/eng/members/index.htm
 10.3 Petition Japanese parliamentarians to introduce a Hong Kong Human Rights and Democracy Bill in Japan [[Petition Japan]](https://www.change.org/p/%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1-%E9%A6%99%E6%B8%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E6%A8%A9%E7%9A%84%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E3%81%91%E3%82%93%E5%88%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81-%E6%97%A5%E6%9C%AC%E7%89%88-%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%A8%A9-%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E6%B3%95%E6%A1%88-%E3%81%AE%E8%AD%B0%E8%AB%96%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%AB%E6%B1%82%E3%82%81%E3%81%BE%E3%81%99?utm_content=cl_sharecopy_17285742_ja-JP%3Av1&recruiter=34591470&recruited_by_id=e96e94b0-151b-0130-6dd2-3c764e049c4f&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial)
 
 ---
-
+<br>
 <a name="past-achievements">
-  <h2>
+  <h1>
     <img src="public/assets/images/mei-circle-16x16.png">
       Past Achievements
-  </h2>  
+  </h1>  
+</a>
+
+100k+ signatories : Petition White House to nominate Hong Kong Protesters for Nobel Peace Prize 2020
+
+100k+ signatories : Petition White House to suspend crowd control equipment exports to Hong Kong
+
+100k+ signatories : Petition White House to pass the Hong Kong Human Rights and Democracy Act
+
+HKD 3m+ raised for Hong Kong Journalist Association Protection Fund
+
+HKD 200k+ raised for [[Lady Liberty Hong Kong]](https://gogetfunding.com/%E8%A3%BD%E4%BD%9C%E3%80%90%E6%96%B0%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E%E5%83%8F%E3%80%91production-of-lady-liberty-hong-kong/?lang=en) (Statue) [[3DPrint Your Own #LadyLibertyHK]](https://www.reddit.com/r/HongKong/comments/dd39y7/ladylibertyhk_figurine_standing_in_solidarity) (free 3D file included)
+
+100k+ signatories : [[Sanction Hong Kong government for its State Terrorism conducted in Prince Edward train station]](https://petitions.whitehouse.gov/petition/sanction-hong-kong-government-its-state-terrorism-conducted-prince-edward-train-station-hong-kong-831)
+
+100k+ signatories : [[Reject nomination of Andy Tsang (former Police Chief of HK) for positions in United Nations]](https://petitions.whitehouse.gov/petition/please-reject-nomination-andy-tsang-wai-hung-positions-united-nations?fbclid=IwAR0VJ4ljlgSujT-40K5_VX9ZnOZ8Wa8cXjYdHelxX0ZFb9tBBn2JRFfkRSg)
+
+HKD 8m+ raised for [[advertisements in major newspapers around the world People's Republic of China's 70th Anniversary]](https://gogetfunding.com/g20celebratemotherbirthday)
+
+Petition to the Canadian government [[e-2268]](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268) sponsored by MP Michael Chong (Closed upon dissolution)
+
+Serena Lee's petition to address the violation of human rights in Hong Kong : Stand with [[Serena Lee]](https://www.parliament.nz/en/pb/petitions/document/PET_90982/petition-of-serena-lee-address-the-violation-of-human)
+
+100k+ signatories : [[Petition UK to give full British Citizenship to British National Overseas (BNO) passport holders]](https://petition.parliament.uk/petitions/244402)
+
+HKD1.8m+ raised [[催淚之城 The City of Tears]](https://www.kickstarter.com/projects/cori226/the-city-of-tears) Documentary of Hong Kong, Summer of 2019 (Goal achieved < 16 hours)
+
+USD40k+ raised [[Giving away free Stand with Hong Kong T-shirts at NBA Opening Night]](https://www.gofundme.com/f/free-hong-kong-tshirts-on-nba-opening-night)
+
+---
+<br>
+<a name="whitelisted-companies">
+  <h1>
+    <img src="public/assets/images/mei-circle-16x16.png">
+      Whitelisted Companies
+  </h1>  
+</a>
+
+---
+<br>
+<a name="blacklisted-companies">
+  <h1>
+    <img src="public/assets/images/mei-circle-16x16.png">
+      Blacklisted Companies
+  </h1>  
 </a>
