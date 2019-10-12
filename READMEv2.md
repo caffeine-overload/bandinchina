@@ -128,31 +128,28 @@ Please feel free to request to add or remove entities from this list.
 
 ## UNITED KINGDOM (UK)
 
-4.1 Write to your Members of Parliament (UK)
+4.1 Write to your [[Members of Parliament]](https://www.parliament.uk/get-involved/contact-your-mp/
+) (UK)
 
-https://www.parliament.uk/get-involved/contact-your-mp/
+4.2 [[Petition UK]](https://petition.standwithhk.org) to Uphold the 1984 Sino-British Joint Declaration
 
-4.2 Petition UK to Uphold the 1984 Sino-British Joint Declaration
+4.3 [[Petition Liz Truss]](https://you.38degrees.org.uk/petitions/uk-should-safeguard-human-rights-and-rule-of-law-in-hong-kong-in-future-trade-deals
+) from Department of International Trade and Dominic Raab from Foreign and Commonwealth Office to Stand up for Human Rights in Hong Kong
 
-https://petition.standwithhk.org
+---
+<br>
+<img src="public/assets/images/flag-of-Canada.png">
 
-4.3 Petition Liz Truss from Department of International Trade and Dominic Raab from Foreign and Commonwealth Office to Stand up for Human Rights in Hong Kong
+## CANADA
 
-https://you.38degrees.org.uk/petitions/uk-should-safeguard-human-rights-and-rule-of-law-in-hong-kong-in-future-trade-deals
-
-
-
-CANADA
-
-5.1 Write to your Members of Parliament (CAN)
-
-https://www.ourcommons.ca/Parliamentarians/en/constituencies/FindMP
-
-5.2 Stand up for Hong Kong and Petition to Canadian MPs and Federal Elections Candidates https://chkl.ca (Dateline: Oct 20th)
-
-5.3 #BoycottBlizzard If you are a CAN player, instead of just deleting your account, you should request PIPEDA (Personal Information Protection and Electronics Documents Act) and if they do not comply within 30 days, you can complaint to the Canada's Federal Privacy Commissioner
+5.1 Write to your [[Members of Parliament]](https://www.ourcommons.ca/Parliamentarians/en/constituencies/FindMP) (CAN)
 
 
+5.2 Stand up for Hong Kong and [[petition]](https://chkl.ca ) to Canadian MPs and Federal Elections Candidates **(Deadline: Oct 20th)**
+
+5.3 `#BoycottBlizzard` if you are a Canadian player, instead of just deleting your account, you should request PIPEDA (Personal Information Protection and Electronics Documents Act) and if they do not comply within 30 days, you can complaint to the Canada's Federal Privacy Commissioner
+
+---
 
 AUSTRALIA
 
