@@ -1,9 +1,10 @@
 <p align="center"> 
   <img src="public/assets/images/mei-circle.png">
-  
   <p align="center"><i>"The only thing necessary for the triumph of evil is for good men to do nothing."</i></p>
   <p align="center">- Edmund Burke</p>
 </p> 
+
+Image Credit: [Source](https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/)
 
 ## Summary
 This is a comprehensive repository for many, if not all, topics related to Hong Kong.
