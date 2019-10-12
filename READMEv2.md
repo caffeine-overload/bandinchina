@@ -239,7 +239,6 @@ Please feel free to request to add or remove entities from this list.
 9.1 Speak out but be anonymous. Let other Chinese, Hong Kong people, the world know that there are Chinese or Mainland Chinese who do supports the Hong Kong protest.
 
 ---
-<br>
 <a name="help-hk-others">
   <h2>
     OTHERS
@@ -257,7 +256,6 @@ https://www.sangiin.go.jp/japanese/joho1/kousei/eng/members/index.htm
 10.3 Petition Japanese parliamentarians to introduce a Hong Kong Human Rights and Democracy Bill in Japan [[Petition Japan]](https://www.change.org/p/%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1-%E9%A6%99%E6%B8%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E6%A8%A9%E7%9A%84%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E3%81%91%E3%82%93%E5%88%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81-%E6%97%A5%E6%9C%AC%E7%89%88-%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%A8%A9-%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E6%B3%95%E6%A1%88-%E3%81%AE%E8%AD%B0%E8%AB%96%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%AB%E6%B1%82%E3%82%81%E3%81%BE%E3%81%99?utm_content=cl_sharecopy_17285742_ja-JP%3Av1&recruiter=34591470&recruited_by_id=e96e94b0-151b-0130-6dd2-3c764e049c4f&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial)
 
 ---
-<br>
 <a name="past-achievements">
   <h1>
     <img src="public/assets/images/mei-circle-16x16.png">
