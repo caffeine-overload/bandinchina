@@ -69,29 +69,30 @@
 		</div>
     </div>
 
-    <!-- jQuery CDN -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <!-- Fetch API polyfill  -->
+    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=fetch"></script>
     <!-- showdown.js CDN -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
 
     <!-- Making the table work -->
     <script type="text/javascript">
 
-      $.get("./README.md", function(file)
-      {
-        // filter the markdown table using a Regular Expression
-        const tableRegex = /\[\/\/\]: # "BEGIN:TABLE"\n\n(\|(.|\n)*\|)\n\n\[\/\/\]: # "END:TABLE"/m
-          , match = file.match(tableRegex)
-          , tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
+      fetch("./README.md")
+        .then(function (r) { return r.text(); })
+        .then(function (file) {
+          // filter the markdown table using a Regular Expression
+          const tableRegex = /\[\/\/\]: # "BEGIN:TABLE"\n\n(\|(.|\n)*\|)\n\n\[\/\/\]: # "END:TABLE"/m
+            , match = file.match(tableRegex)
+            , tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
 
-        // render the markdown into HTML
-        const render = (new showdown.Converter({ tables: true }))
-          .makeHtml(tableMD);
+          // render the markdown into HTML
+          const render = (new showdown.Converter({ tables: true }))
+            .makeHtml(tableMD);
 
-        // replace the main content with the rendered .md
-        $(" #blacklist ").html(render);
-        $(" #blacklist table ").addClass("table table-hover");
-      });
+          // replace the main content with the rendered .md
+          document.querySelector("#blacklist").innerHTML = render;
+          document.querySelector("#blacklist table").className = "table table-hover";
+        });
 
     </script>
 
