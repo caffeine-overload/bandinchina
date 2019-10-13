@@ -46,5 +46,5 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | Versace | N/A | 2019-10-10 | Apologized for identifying Hong Kong and Taiwan as an independent country on their T-Shirts. | <ul><li>[CNN](https://www.cnn.com/style/article/coach-givenchy-versace-t-shirt-controversy/index.html)</li></ul> |
 | JYP Entertainment | 2016-01-16 | 2019-10-11 | Forced Taiwanese kpop idol Chou Tzu-yu to release an apology video after she was seen waving a Taiwan flag | <ul><li>[NY Times](https://www.nytimes.com/2016/01/17/world/asia/taiwan-china-singer-chou-tzu-yu.html)</li></ul> |
 | Tiktok | 2019-09 | 2019-10-11 | Instructed moderators to censor videos that would upset Beijing | <ul><li>[The Guardian](https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing)</li></ul> |
-
+| Google | 2019-10 | 2019-10- 13| Google deleted a game about the Hong Kong Revolution for violating rules against 'capitalizing on sensitive events' | <ul><li>[The Verge](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)</li></ul> |
 [//]: # "END:TABLE"
