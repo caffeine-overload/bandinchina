@@ -224,7 +224,6 @@ Please feel free to request to add or remove entities from this list.
 
 8.1 Write to Your [[Members of European Parliament]](http://www.europarl.europa.eu/meps/en/search/advanced) (EU)
 
-
 8.2 Petition to Jean Yves Le Drian, Minister of Europe and Foreign Affairs of the French Republic calling for concrete actions against China to respect Hong Kong’s autonomy to prevent a humanitarian crisis [[Petition to Jean Yves Le Drian]](https://www.change.org/p/m-jean-yves-le-drian-ministre-de-l-europe-et-des-affaires-%C3%A9trang%C3%A8res-de-la-r%C3%A9publique-fran%C3%A7aise-des-mesures-pour-pr%C3%A9venir-une-%C3%A9ventuelle-crise-humanitaire-%C3%A0-hong-kong-fr-en-5a3626a8-8c77-4d6e-8346-141c1ddd6325)
 
 8.3 `#BoycottBlizzard` if you are an EU player, instead of just deleting your account, [[you should request GDPR]](https://www.reddit.com/r/HongKong/comments/dfcncg/dont_just_delete_your_account_you_can_request) (General Data Protection Regulations) and if they do not comply within 30 days, they will have to pay a hefty fine of 4% of Global Annual Turnover of Blizzard.
