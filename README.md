@@ -41,9 +41,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   </h1>  
 </a>
 
-Below is a list of ways to help Hong Kong from abroad. Currently, the list is being updated with this Reddit thread:
-
-`https://www.reddit.com/r/HongKong/comments/cv0ws4/how_can_you_help_hong_kong_protests_from_abroad/?utm_source=share&utm_medium=ios_app&utm_name=iossmf`
+Below is a list of ways to help Hong Kong from abroad. Currently, the list is being updated with this [[Reddit thread]](https://www.reddit.com/r/HongKong/comments/cv0ws4/how_can_you_help_hong_kong_protests_from_abroad/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 Please feel free to request to add or remove entities from this list.
 
