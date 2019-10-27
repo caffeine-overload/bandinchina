@@ -179,7 +179,13 @@
 				// replace the main content with the rendered .md
 				$(" #lists ").html(render);
 				$(" #lists table ").addClass("table table-hover");
-				location.href = "https://caffeine-overload.github.io/bandinchina#lists";
+
+				// Allows testing of the blacklist and whitelist buttons in dev environment
+				if(window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1) {
+					location.href = "https://caffeine-overload.github.io/bandinchina#lists";
+				} else {
+					location.href = `${location.origin}${location.pathname}#lists`;
+				}
 			}
 
     </script>
