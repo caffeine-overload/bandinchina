@@ -7,6 +7,15 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 	<style type="text/css">
+		#main {
+			padding: 1rem;
+    	max-width: 100%;
+		}
+
+		img {
+			max-width: 100%;
+		}
+
 		.container-fluid {
 			max-width: 1300px;
 		}
@@ -40,6 +49,9 @@
 		<div class="row text-center">
 			<header>
 				<a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina" target="_blank">GitHub</a>
+				<a class="btn btn-outline-dark" href="https://caffeine-overload.github.io/bandinchina/" target="_blank">Home</a>
+				<a class="btn btn-outline-dark" href="https://caffeine-overload.github.io/bandinchina/" target="_blank">Whitelist</a>
+				<a class="btn btn-outline-dark" href="https://caffeine-overload.github.io/bandinchina/" target="_blank">Blacklist</a>
 			</header>
 	
 			<!-- HK Flag -->
@@ -80,18 +92,23 @@
     <script type="text/javascript">
 
       $.get("./README.md", function(file)
-      {
-        // filter the markdown table using a Regular Expression
+      {	
+
+				// filter the markdown table using a Regular Expression
+				/**
         const tableRegex = /\[\/\/\]: # "BEGIN:TABLE"\n\n(\|(.|\n)*\|)\n\n\[\/\/\]: # "END:TABLE"/m
           , match = file.match(tableRegex)
           , tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
+				*/
 
-        // render the markdown into HTML
+				// render the markdown into HTML
+				/**
         const render = (new showdown.Converter({ tables: true }))
           .makeHtml(tableMD);
+				*/
 
         // replace the main content with the rendered .md
-        $(" #blacklist ").html(render);
+        $(" #blacklist ").html(file);
         $(" #blacklist table ").addClass("table table-hover");
       });
 
