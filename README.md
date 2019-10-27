@@ -27,7 +27,6 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
 <ul>
 <li><a href="#help-hk">How to help Hong Kong protests from abroad</a>
 
-
 <ul>
 <li><a href="#help-hk-general">General</a></li>
 
