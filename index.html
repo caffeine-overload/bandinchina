@@ -165,14 +165,14 @@
 
 			function renderMarkdown(file) {
 				// filter the markdown table using a Regular Expression
+				// this is meant to allow certain content to show up in the repo but not in the site
+				// by setting the flags <!-- RENDER START --> and <!-- RENDER END -->
 				const tableRegex = /<!-- RENDER START -->([\S\s]*?)<!-- RENDER END -->/;
 				const match = file.match(tableRegex);
-				console.log('cowman', file, tableRegex);
 				const tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
 
 				// render the markdown into HTML
-				const render = (new showdown.Converter({ tables: true }))
-					.makeHtml(tableMD);
+				const render = (new showdown.Converter({ tables: true })).makeHtml(tableMD);
 
 				// replace the main content with the rendered .md
 				$(" #lists ").html(render);
