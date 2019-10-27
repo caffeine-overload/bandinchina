@@ -29,8 +29,9 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   * [China](#help-hk-cn)
   * [Others](#help-hk-others)
 * [Past Achievements](#past-achievements)
-* [Whitelisted Companies](#whitelisted-companies)
-* [Blacklisted Companies](#blacklisted-companies)
+* [Whitelisted Companies](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md)
+* [Blacklisted Companies](https://github.com/caffeine-overload/bandinchina/blob/master/blacklist.md)
+
 
 ---
 
