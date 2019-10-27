@@ -65,7 +65,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
     <img src="public/assets/images/mei-circle-16x16.png">
       How to help Hong Kong protests from abroad
   </h1>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -80,7 +80,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     GENERAL - anyone can sign the petitions below (no citizenship pre-requisite)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -125,7 +125,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     MONETARY AND NON-MONETARY DONATIONS
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -162,7 +162,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     UNITED STATES OF AMERICA (USA)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -191,7 +191,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     UNITED KINGDOM (UK)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -212,7 +212,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     CANADA (CAN)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -231,7 +231,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     AUSTRALIA (AUS)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -258,7 +258,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     NEW ZEALAND (NZ)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -273,7 +273,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     EUROPE (EU)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -292,7 +292,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     CHINA (CN)
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -305,7 +305,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     OTHERS
   </h2>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
@@ -327,7 +327,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
     <img src="public/assets/images/mei-circle-16x16.png">
       Past Achievements
   </h1>
-
+<a href="#">Top</a>
 <p><br />
 </a></p>
 
