@@ -1,5 +1,3 @@
-<h1>The Blacklist</h1>
-
 Stand with Hong Kong!
 
 There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
