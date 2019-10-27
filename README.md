@@ -26,31 +26,31 @@
 </a></p>
 				
 <ul>
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk">How to help Hong Kong protests from abroad</a>
+<li><a href="#help-hk">How to help Hong Kong protests from abroad</a>
 				
 <ul>
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-general">General</a></li>
+<li><a href="#help-hk-general">General</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-monetary-and-non-monetary-donations">Monetary &amp; Non-monetary Donations</a></li>
+<li><a href="#help-hk-monetary-and-non-monetary-donations">Monetary &amp; Non-monetary Donations</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-usa">United States of America</a></li>
+<li><a href="#help-hk-usa">United States of America</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-uk">United Kingdom</a></li>
+<li><a href="#help-hk-uk">United Kingdom</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-can">Canada</a></li>
+<li><a href="#help-hk-can">Canada</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-aus">Australia</a></li>
+<li><a href="#help-hk-aus">Australia</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-nz">New Zealand</a></li>
+<li><a href="#help-hk-nz">New Zealand</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-eu">Europe</a></li>
+<li><a href="#help-hk-eu">Europe</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-cn">China</a></li>
+<li><a href="#help-hk-cn">China</a></li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-others">Others</a></li></ul>
+<li><a href="#help-hk-others">Others</a></li></ul>
 </li>
 				
-<li><a href="https://caffeine-overload.github.io/bandinchina#past-achievements">Past Achievements</a></li>
+<li><a href="#past-achievements">Past Achievements</a></li>
 </ul>
 
 <hr />
