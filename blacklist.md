@@ -1,4 +1,3 @@
-
 # The Blacklist
 
 Stand with Hong Kong!

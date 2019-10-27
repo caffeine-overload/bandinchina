@@ -1,60 +1,4 @@
-<p align="center"> 
-  <img src="public/assets/images/mei-circle.png">
-  <br/>
-  Image Credit:
-  <a href="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">Source</a>
-  <p align="center"><i>"The only thing necessary for the triumph of evil is for good men to do nothing."</i></p>
-  <p align="center">- Edmund Burke</p>
-</p>
 
-<p></p>
-
-<h2 id="summary">Summary</h2>
-
-<p>View the website at <a href="https://caffeine-overload.github.io/bandinchina/">https://caffeine-overload.github.io/bandinchina/</a>
-This is a comprehensive repository for many, if not all, topics related to Hong Kong.</p>
-
-<p><a name="links"></p>
-
-  <h2>
-    <img src="public/assets/images/mei-circle-16x16.png">
-      Go To
-  </h2>
-
-<p><br />
-</a></p>
-
-<ul>
-<li><a href="#help-hk">How to help Hong Kong protests from abroad</a>
-
-<ul>
-<li><a href="#help-hk-general">General</a></li>
-
-<li><a href="#help-hk-monetary-and-non-monetary-donations">Monetary &amp; Non-monetary Donations</a></li>
-
-<li><a href="#help-hk-usa">United States of America</a></li>
-
-<li><a href="#help-hk-uk">United Kingdom</a></li>
-
-<li><a href="#help-hk-can">Canada</a></li>
-
-<li><a href="#help-hk-aus">Australia</a></li>
-
-<li><a href="#help-hk-nz">New Zealand</a></li>
-
-<li><a href="#help-hk-eu">Europe</a></li>
-
-<li><a href="#help-hk-cn">China</a></li>
-
-<li><a href="#help-hk-others">Others</a></li></ul>
-</li>
-
-<li><a href="#past-achievements">Past Achievements</a></li>
-
-<li><a href="https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md">Whitelisted Companies</a></li>
-
-<li><a href="https://github.com/caffeine-overload/bandinchina/blob/master/blacklist.md">Blacklisted Companies</a></li>
-</ul>
 
 <hr />
 
@@ -64,7 +8,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
     <img src="public/assets/images/mei-circle-16x16.png">
       How to help Hong Kong protests from abroad
   </h1>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -79,7 +23,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     GENERAL - anyone can sign the petitions below (no citizenship pre-requisite)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -124,7 +68,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     MONETARY AND NON-MONETARY DONATIONS
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -161,7 +105,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     UNITED STATES OF AMERICA (USA)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -190,7 +134,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     UNITED KINGDOM (UK)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -211,7 +155,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     CANADA (CAN)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -230,7 +174,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     AUSTRALIA (AUS)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -257,7 +201,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     NEW ZEALAND (NZ)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -272,7 +216,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     EUROPE (EU)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -291,7 +235,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     CHINA (CN)
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -304,7 +248,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
   <h2>
     OTHERS
   </h2>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
@@ -326,7 +270,7 @@ This is a comprehensive repository for many, if not all, topics related to Hong 
     <img src="public/assets/images/mei-circle-16x16.png">
       Past Achievements
   </h1>
-<a href="#">Top</a>
+<a href="#">Top</a> / <a href="#go-to">Navigation</a>
 <p><br />
 </a></p>
 
