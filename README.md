@@ -8,6 +8,7 @@
 </p> 
 
 ## Summary
+View the website at [https://caffeine-overload.github.io/bandinchina/](https://caffeine-overload.github.io/bandinchina/)
 This is a comprehensive repository for many, if not all, topics related to Hong Kong.
 
 <a name="links">
