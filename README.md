@@ -1,6 +1,61 @@
-
+<p align="center"> 
+					<img src="public/assets/images/mei-circle.png">
+					<br/>
+					Image Credit:
+					<a href="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">Source</a>
+					<p align="center"><i>"The only thing necessary for the triumph of evil is for good men to do nothing."</i></p>
+					<p align="center">- Edmund Burke</p>
+				</p>
+				
+<p></p>
+				
+<h2 id="summary">Summary</h2>
+				
+<p>View the website at <a href="https://caffeine-overload.github.io/bandinchina/">https://caffeine-overload.github.io/bandinchina/</a>
+				This is a comprehensive repository for many, if not all, topics related to Hong Kong.</p>
+				<br />
+				<p><a name="links"></p>
+					
+					
+<h2>
+						<img src="public/assets/images/mei-circle-16x16.png">
+						<a name="go-to">Go To
+					</h2>
+				
+<p><br />
+</a></p>
+				
+<ul>
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk">How to help Hong Kong protests from abroad</a>
+				
+<ul>
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-general">General</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-monetary-and-non-monetary-donations">Monetary &amp; Non-monetary Donations</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-usa">United States of America</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-uk">United Kingdom</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-can">Canada</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-aus">Australia</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-nz">New Zealand</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-eu">Europe</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-cn">China</a></li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#help-hk-others">Others</a></li></ul>
+</li>
+				
+<li><a href="https://caffeine-overload.github.io/bandinchina#past-achievements">Past Achievements</a></li>
+</ul>
 
 <hr />
+
+<!-- RENDER START -->
 
 <p><a name="help-hk"></p>
 
@@ -299,3 +354,5 @@
 <p>HKD1.8m+ raised <a href="https://www.kickstarter.com/projects/cori226/the-city-of-tears">[催淚之城 The City of Tears]</a> Documentary of Hong Kong, Summer of 2019 (Goal achieved &lt; 16 hours)</p>
 
 <p>USD40k+ raised <a href="https://www.gofundme.com/f/free-hong-kong-tshirts-on-nba-opening-night">[Giving away free Stand with Hong Kong T-shirts at NBA Opening Night]</a></p>
+
+<!-- RENDER END -->/

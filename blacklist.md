@@ -4,7 +4,7 @@ Stand with Hong Kong!
 
 There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md) for companies who have refused to comply to China's demands
 
-[//]: # "BEGIN:TABLE"
+<!-- RENDER START -->
 
 | Blacklisted Company | Date Occurred | Date Added | Why added | Sources |
 | --------------- | ------------ | ---------- | --------- | ------- |
@@ -52,4 +52,4 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 | Swarovski | 2019-08-13 | 2019-10-22 | Apologised for listing Hong Kong as a country, releasing a statement including the following passages: "Swarovski takes full responsibility and sincerely apologizes to the people of China ... who have been deeply disappointed due to misleading communication on China’s National Sovereignty ... Swarovski has always firmly respected China’s National Sovereignty and territorial integrity ... Swarovski will continue to support a harmonious society, together with the Chinese people." | <ul><li>[Business Insider](https://www.businessinsider.com/western-companies-apologize-china-communist-party-list-2019-10?r=US&IR=T#tiffany-and-co-for-running-an-ad-campaign-featuring-a-pose-similar-to-a-symbol-of-the-hong-kong-protests-3)</li><li>[Official Facebook page of Swarovski](https://www.facebook.com/SWAROVSKI.global/photos/a.10152036502592647/10156422249192647/?type=3&theater)</li></ul> |
 | Fiat Chrysler / Maserati | 2019-10-23 | 2019-10-25 | Asked a local dealer affiliated with the brand, Modena Motori Taiwan, to cancel its sponsorship of the Golden Horse Awards, a film festival held annually in Taipei. The statement cited Maserati's support of China's "territorial integrity, history and culture, and… the one-China principle." | <ul><li>[CNN](https://www.cnn.com/2019/10/25/business/china-taiwan-maserati-intl-hnk/index.html)</li><li>[Official Weibo page of Maserati](https://www.weibo.com/2044549283/IcPLZFlvG?from=page_1006062044549283_profile&wvr=6&mod=weibotime)</li></ul> |
 
-[//]: # "END:TABLE"
+<!-- RENDER END -->

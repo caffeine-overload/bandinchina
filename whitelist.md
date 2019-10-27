@@ -2,7 +2,7 @@
 
 This list is for companies who have stood up to Chinese censorship demands and refused to be censored
 
-[//]: # "BEGIN:TABLE"
+<!-- RENDER START -->
 
 | Whitelisted Company                          | Date Added | Why added                                                    | Sources                                                      |
 | ----------------------------------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -15,4 +15,4 @@ This list is for companies who have stood up to Chinese censorship demands and r
 | European Broadcasting Union | 2019-10-12 | Revoked EuroVision broadcasting rights of Hunan TV after LGBT-related content are censored during its livestream | <ul><li>[The Guardian](https://www.theguardian.com/world/2018/may/11/chinese-broadcaster-loses-eurovision-rights-over-lgbt-censorship)</li></ul> |
 | Quentin Tarantino | 2019-10-22 | Refused to re-cut "One upon a time in Hollywood" for the Chinese market to placate Chinese censors and allow a release in China | <ul><li>[Variety](https://variety.com/2019/film/news/quentin-tarantino-once-upon-a-time-in-hollywood-china-1203375792/)</li></ul> |
 
-[//]: # "END:TABLE"
+<!-- RENDER END -->
