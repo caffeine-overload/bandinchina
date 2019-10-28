@@ -2,6 +2,8 @@ This list is for companies who have stood up to Chinese censorship demands and r
 
 <!-- RENDER START -->
 
+<h2>Whitelist</h2>
+
 | Whitelisted Company                          | Date Added | Why added                                                    | Sources                                                      |
 | ----------------------------------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Matt Stone & Trey Parker (Comedy Central) | 2019-10-09 | Released South Park episode mocking Chinese censorship, causing show to be censored in China, then issued a mock apology. In a followup episode, there is a scene where characters scream "fuck the Chinese government!" | <ul><li>[BBC](https://www.bbc.co.uk/news/world-asia-china-49968867)</li><li>[Business Insider](https://www.businessinsider.com/south-park-takes-on-chinese-government-in-300th-episode-2019-10)</li></ul> |

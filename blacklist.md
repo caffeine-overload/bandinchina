@@ -4,6 +4,8 @@ There is a separate [whitelist](https://github.com/caffeine-overload/bandinchina
 
 <!-- RENDER START -->
 
+<h2>Blacklist</h2>
+
 | Blacklisted Company | Date Occurred | Date Added | Why added | Sources |
 | --------------- | ------------ | ---------- | --------- | ------- |
 | Blizzard Entertainment | 2019-10-05 | 2019-10-08 | Banned a player who voiced support for the HK protests, rescinded his prize money and fired the 2 casters that were with him on air. Later on they banned an additional 3 players for pro Hong Kong speech. |  <ul><li>[CNN](https://edition.cnn.com/2019/10/08/tech/hearthstone-hong-kong-intl-hnk-scli)</li><li>[Kotaku](https://kotaku.com/blizzard-suspends-hearthstone-player-for-hong-kong-supp-1838864961)</li><li>[Play Hearthstone](https://playhearthstone.com/en-us/blog/23179289)</li><li>[Business Insider](https://www.businessinsider.com/blizzard-bans-3-more-hearthstone-players-for-hong-kong-sign-2019-10?r=US&IR=T)</li></ul> |
