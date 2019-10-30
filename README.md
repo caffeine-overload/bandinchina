@@ -355,4 +355,4 @@
 
 <p>USD40k+ raised <a href="https://www.gofundme.com/f/free-hong-kong-tshirts-on-nba-opening-night">[Giving away free Stand with Hong Kong T-shirts at NBA Opening Night]</a></p>
 
-<!-- RENDER END -->/
+<!-- RENDER END -->
