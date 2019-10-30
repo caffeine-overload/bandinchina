@@ -1,0 +1,47 @@
+#main {
+  padding: 1rem;
+  max-width: 100%;
+}
+
+#whitelist-nav {
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+#current-page {
+  position: absolute;
+  left: -100px;
+  top: -100px;
+  height: 1px;
+  width: 1px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container-fluid {
+  max-width: 1300px;
+}
+
+header, footer {
+  width: 100%;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.table th,
+.table td:first-child {
+  font-weight: bold;
+}
+
+.table td:nth-child(2),
+.table td:nth-child(3) {
+  white-space: nowrap;
+}
+
+.table td:nth-child(4) {
+  text-align: left;
+}
