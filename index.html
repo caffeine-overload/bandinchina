@@ -7,6 +7,27 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 	<style type="text/css">
+		#main {
+			padding: 1rem;
+    	max-width: 100%;
+		}
+
+		#whitelist-nav {
+			margin-right: 4px;
+		}
+
+		#current-page {
+			position: absolute;
+			left: -100px;
+			top: -100px;
+			height: 1px;
+			width: 1px;
+		}
+
+		img {
+			max-width: 100%;
+		}
+
 		.container-fluid {
 			max-width: 1300px;
 		}
@@ -35,11 +56,14 @@
     </style>
   </head>
   <body>
-
+		<div id="current-page">Home</div>
     <div class="container-fluid p-3">
-		<div class="row text-center">
-			<header>
+		<div class="row">
+			<header class="text-center">
 				<a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina" target="_blank">GitHub</a>
+				<a class="btn btn-outline-dark" href="/">Home</a>
+				<button class="btn btn-outline-dark" id="whitelist-nav">Whitelist</a>
+				<button class="btn btn-outline-dark" id="blacklist-nav">Blacklist</a>
 			</header>
 	
 			<!-- HK Flag -->
@@ -57,11 +81,66 @@
 			</svg>
 	
 			<div id="main" class="py-4">
-				<h3 class="lead">Naming and shaming companies who kowtow to Chinese censorship requests. <small>Feel free to add to this list over at this <a href="https://github.com/caffeine-overload/bandinchina">GitHub Repository</a>.</small></h3>
-				<p>There is a separate <a href="https://github.com/caffeine-overload/bandinchina/blob/master/whitelist.md">whitelist</a> for companies who have refused to comply to China's demands.</p>
 
-				<div id="blacklist" class="text-left table-responsive">
+				<p align="center"> 
+					<img src="public/assets/images/mei-circle.png">
+					<br/>
+					Image Credit:
+					<a href="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">Source</a>
+					<p align="center"><i>"The only thing necessary for the triumph of evil is for good men to do nothing."</i></p>
+					<p align="center">- Edmund Burke</p>
+				</p>
+				
+				<p></p>
+				
+				<h2 id="summary">Summary</h2>
+				
+				<p>View the website at <a href="/">https://caffeine-overload.github.io/bandinchina/</a>
+				This is a comprehensive repository for many, if not all, topics related to Hong Kong.</p>
+				<br />
+				<p><a name="links"></p>
+					
+					
+					<h2>
+						<img src="public/assets/images/mei-circle-16x16.png">
+						<a name="go-to">Go To
+					</h2>
+				
+				<p><br />
+				</a></p>
+				
+				<ul>
+					<li><a data-link-type="go-to" href="#help-hk">How to help Hong Kong protests from abroad</a>
+				
+				<ul>
+				<li><a data-link-type="go-to" href="#help-hk-general">General</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-monetary-and-non-monetary-donations">Monetary &amp; Non-monetary Donations</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-usa">United States of America</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-uk">United Kingdom</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-can">Canada</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-aus">Australia</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-nz">New Zealand</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-eu">Europe</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-cn">China</a></li>
+				
+				<li><a data-link-type="go-to" href="#help-hk-others">Others</a></li></ul>
+				</li>
+				
+				<li><a data-link-type="go-to" href="#past-achievements">Past Achievements</a></li>
+				</ul>
+
+				<a name="lists">
+				<div id="lists" class="text-left table-responsive">
 					<h2>Loading List...</h2>
+					
 				</div>
 			</div>
 	
@@ -77,25 +156,68 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
 
     <!-- Making the table work -->
-    <script type="text/javascript">
+		<script type="text/javascript">
+			const isProd = window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1;
+			const stateManagement = $("#current-page")[0];
 
-      $.get("./README.md", function(file)
-      {
-        // filter the markdown table using a Regular Expression
-        const tableRegex = /\[\/\/\]: # "BEGIN:TABLE"\n\n(\|(.|\n)*\|)\n\n\[\/\/\]: # "END:TABLE"/m
-          , match = file.match(tableRegex)
-          , tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
+			// Changes the links in dev environment for testing purposes
+			if(!isProd) {
+				const listOfLinks = $("[data-link-type=\"go-to\"]");
 
-        // render the markdown into HTML
-        const render = (new showdown.Converter({ tables: true }))
-          .makeHtml(tableMD);
+				listOfLinks.each(function() {
+					const link = $(this);
 
-        // replace the main content with the rendered .md
-        $(" #blacklist ").html(render);
-        $(" #blacklist table ").addClass("table table-hover");
-      });
+					link.click(() => {
+						if(stateManagement.innerText !== "Home") {
+							$.get("./README.md", renderMarkdown());
+						}
+					})
+				})
+			}
+
+      $.get("./README.md", renderMarkdown());
+			
+			$("#whitelist-nav").click(() => {
+				$.get("./whitelist.md", renderMarkdown({newState: "Whitelist"}));
+			})
+
+			$("#blacklist-nav").click(() => {
+				$.get("./blacklist.md", renderMarkdown({newState: "Blacklist"}));
+			})
+
+			function renderMarkdown(params = {}) {
+				const { newState = "Home" } = params;
+				console.log('cowman', newState);
+				const isList = newState === "Blacklist" || newState === "Whitelist";
+
+				return function (file) {
+					stateManagement.innerText = newState;
+					// filter the markdown table using a Regular Expression
+					// this is meant to allow certain content to show up in the repo but not in the site
+					// by setting the flags <!-- RENDER START --> and <!-- RENDER END -->
+					const tableRegex = /<!-- RENDER START -->([\S\s]*?)<!-- RENDER END -->/;
+					const match = file.match(tableRegex);
+					const tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
+	
+					// render the markdown into HTML
+					const render = (new showdown.Converter({ tables: true })).makeHtml(tableMD);
+	
+					// replace the main content with the rendered .md
+					$(" #lists ").html(render);
+					$(" #lists table ").addClass("table table-hover");
+					
+					// Allows testing of the blacklist and whitelist buttons in dev environment
+					if(isProd && isList) {
+						location.href = "https://caffeine-overload.github.io/bandinchina#lists";
+					} else if(!isProd && isList){
+						location.href = `${location.origin}${location.pathname}#lists`;
+					}
+				}
+			}
+
 
     </script>
 
   </body>
 </html>
+
