@@ -202,7 +202,6 @@
 				const isList = newState === "Blacklist" || newState === "Whitelist";
 
 				return function (file) {
-					console.log("cowman", isProd, isList, file);
 					stateManagement.innerText = newState;
 					// filter the markdown table using a Regular Expression
 					// this is meant to allow certain content to show up in the repo but not in the site
