@@ -12,7 +12,7 @@
 <h2 id="summary">Summary</h2>
 				
 <p>View the website at <a href="https://caffeine-overload.github.io/bandinchina/">https://caffeine-overload.github.io/bandinchina/</a>
-				This is a comprehensive repository for many, if not all, topics related to Hong Kong.</p>
+				<br>This is a comprehensive repository for many, if not all, topics related to Hong Kong, and in addition, this repository contains a detailed list of western companies who bend to Chinese will and censor themselves or others in order to appease the CCP. </p>
 				<br />
 				<p><a name="links"></p>
 					
@@ -26,6 +26,8 @@
 </a></p>
 				
 <ul>
+<li><a href="public/assets/lists/blacklist.md"> Blacklist of companies who kowtow to Chinese censorship requests </a></li>
+<li><a href="public/assets/lists/whitelist.md"> Whitelist of companies with a backbone </a></li>
 <li><a href="#help-hk">How to help Hong Kong protests from abroad</a>
 				
 <ul>
