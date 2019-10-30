@@ -61,7 +61,7 @@
 		<div class="row">
 			<header class="text-center">
 				<a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina" target="_blank">GitHub</a>
-				<a class="btn btn-outline-dark" href="/">Home</a>
+				<a class="btn btn-outline-dark" href="https://caffeine-overload.github.io/bandinchina">Home</a>
 				<button class="btn btn-outline-dark" id="whitelist-nav">Whitelist</a>
 				<button class="btn btn-outline-dark" id="blacklist-nav">Blacklist</a>
 			</header>
@@ -137,8 +137,8 @@
 				<li><a data-link-type="go-to" href="#past-achievements">Past Achievements</a></li>
 				</ul>
 
-				<a name="lists">
-				<div id="lists" class="text-left table-responsive">
+				<a name="content">
+				<div id="content" class="text-left table-responsive">
 					<h2>Loading List...</h2>
 					
 				</div>
@@ -153,12 +153,17 @@
     <!-- Bootstrap CDN -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <!-- showdown.js CDN -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+		
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
 
     <!-- Making the table work -->
 		<script type="text/javascript">
 			const isProd = window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1;
 			const stateManagement = $("#current-page")[0];
+
+			let initialRender = true;
 
 			// Changes the links in dev environment for testing purposes
 			if(!isProd) {
@@ -181,14 +186,14 @@
 			
 			// Obtains the whitelist document in the public assets and renders it
 			$("#whitelist-nav").click(e => {
-				console.log('cowman', e);
 				$.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/whitelist.md", renderMarkdown({newState: "Whitelist"}));
+				return false;
 			})
 
 			// Obtains the blacklist document in the public assets and renders it
 			$("#blacklist-nav").click(e => {
-				console.log('cowman', e);
 				$.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/blacklist.md", renderMarkdown({newState: "Blacklist"}));
+				return false;
 			})
 
 			function renderMarkdown(params = {}) {
@@ -210,14 +215,13 @@
 					const render = (new showdown.Converter({ tables: true })).makeHtml(tableMD);
 	
 					// replace the main content with the rendered .md
-					$(" #lists ").html(render);
-					$(" #lists table ").addClass("table table-hover");
+					$(" #content ").html(render);
+					$(" #content table ").addClass("table table-hover");
 					
-					// Allows testing of the blacklist and whitelist buttons in dev environment
-					if(isProd && isList) {
-						location.href = "https://caffeine-overload.github.io/bandinchina#lists";
-					} else if(!isProd && isList){
-						location.href = `${location.origin}${location.pathname}#lists`;
+					if(initialRender) {
+						initialRender = false;
+					} else {
+						location.href = "#content";
 					}
 				}
 			}
