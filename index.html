@@ -167,6 +167,7 @@
 				listOfLinks.each(function() {
 					const link = $(this);
 
+					// Prevents re-rendering of the same "home" content
 					link.click(() => {
 						if(stateManagement.innerText !== "Home") {
 							$.get("./README.md", renderMarkdown());
