@@ -61,7 +61,7 @@
 		<div class="row">
 			<header class="text-center">
 				<a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina" target="_blank">GitHub</a>
-				<a class="btn btn-outline-dark" href="https://caffeine-overload.github.io/bandinchina">Home</a>
+				<button class="btn btn-outline-dark" id="home-nav">Home</a>
 				<button class="btn btn-outline-dark" id="whitelist-nav">Whitelist</a>
 				<button class="btn btn-outline-dark" id="blacklist-nav">Blacklist</a>
 			</header>
@@ -196,6 +196,15 @@
 				return false;
 			})
 
+
+			// A button that redirects to the home page
+			// This was refactored into a button to work in a dev environment while still maintaining the 
+			// 	slug "/bandinchina" as the homepage
+			$("#home-nav").click(e => {
+				location.href = "https://caffeine-overload.github.io/bandinchina";
+				return false;
+			})
+			
 			function renderMarkdown(params = {}) {
 				const { newState = "Home" } = params;
 
