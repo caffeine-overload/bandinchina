@@ -178,11 +178,11 @@
       $.get("./README.md", renderMarkdown());
 			
 			$("#whitelist-nav").click(() => {
-				$.get("./whitelist.md", renderMarkdown({newState: "Whitelist"}));
+				$.get("public/assets/lists/whitelist.md", renderMarkdown({newState: "Whitelist"}));
 			})
 
 			$("#blacklist-nav").click(() => {
-				$.get("./blacklist.md", renderMarkdown({newState: "Blacklist"}));
+				$.get("public/assets/lists/blacklist.md", renderMarkdown({newState: "Blacklist"}));
 			})
 
 			function renderMarkdown(params = {}) {
