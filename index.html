@@ -180,13 +180,15 @@
       $.get("./README.md", renderMarkdown());
 			
 			// Obtains the whitelist document in the public assets and renders it
-			$("#whitelist-nav").click(() => {
-				$.get("public/assets/lists/whitelist.md", renderMarkdown({newState: "Whitelist"}));
+			$("#whitelist-nav").click(e => {
+				e.preventDefault();
+				$.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/whitelist.md", renderMarkdown({newState: "Whitelist"}));
 			})
 
 			// Obtains the blacklist document in the public assets and renders it
-			$("#blacklist-nav").click(() => {
-				$.get("public/assets/lists/blacklist.md", renderMarkdown({newState: "Blacklist"}));
+			$("#blacklist-nav").click(e => {
+				e.preventDefault();
+				$.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/blacklist.md", renderMarkdown({newState: "Blacklist"}));
 			})
 
 			function renderMarkdown(params = {}) {
