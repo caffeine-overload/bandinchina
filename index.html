@@ -5,55 +5,8 @@
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="stylesheet" href="./styles.css">
 
-	<style type="text/css">
-		#main {
-			padding: 1rem;
-    	max-width: 100%;
-		}
-
-		#whitelist-nav {
-			margin-right: 4px;
-		}
-
-		#current-page {
-			position: absolute;
-			left: -100px;
-			top: -100px;
-			height: 1px;
-			width: 1px;
-		}
-
-		img {
-			max-width: 100%;
-		}
-
-		.container-fluid {
-			max-width: 1300px;
-		}
-
-		header, footer {
-			width: 100%;
-		}
-
-		.table td {
-			vertical-align: middle;
-		}
-
-		.table th,
-		.table td:first-child {
-			font-weight: bold;
-		}
-
-		.table td:nth-child(2),
-		.table td:nth-child(3) {
-			white-space: nowrap;
-		}
-
-		.table td:nth-child(4) {
-			text-align: left;
-		}
-    </style>
   </head>
   <body>
 		<div id="current-page">Home</div>
@@ -61,7 +14,7 @@
 		<div class="row">
 			<header class="text-center">
 				<a class="btn btn-outline-dark" href="https://github.com/caffeine-overload/bandinchina" target="_blank">GitHub</a>
-				<a class="btn btn-outline-dark" href="/">Home</a>
+				<button class="btn btn-outline-dark" id="home-nav">Home</a>
 				<button class="btn btn-outline-dark" id="whitelist-nav">Whitelist</a>
 				<button class="btn btn-outline-dark" id="blacklist-nav">Blacklist</a>
 			</header>
@@ -137,8 +90,8 @@
 				<li><a data-link-type="go-to" href="#past-achievements">Past Achievements</a></li>
 				</ul>
 
-				<a name="lists">
-				<div id="lists" class="text-left table-responsive">
+				<a name="content">
+				<div id="content" class="text-left table-responsive">
 					<h2>Loading List...</h2>
 					
 				</div>
@@ -153,74 +106,10 @@
     <!-- Bootstrap CDN -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <!-- showdown.js CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
 
     <!-- Making the table work -->
-		<script type="text/javascript">
-			const isProd = window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1;
-			const stateManagement = $("#current-page")[0];
-
-			// Changes the links in dev environment for testing purposes
-			if(!isProd) {
-				const listOfLinks = $("[data-link-type=\"go-to\"]");
-
-				listOfLinks.each(function() {
-					const link = $(this);
-
-					// Prevents re-rendering of the same "home" content
-					link.click(() => {
-						if(stateManagement.innerText !== "Home") {
-							$.get("./README.md", renderMarkdown());
-						}
-					})
-				})
-			}
-
-			// Obtains the README file and renders it
-      $.get("./README.md", renderMarkdown());
-			
-			// Obtains the whitelist document in the public assets and renders it
-			$("#whitelist-nav").click(() => {
-				$.get("public/assets/lists/whitelist.md", renderMarkdown({newState: "Whitelist"}));
-			})
-
-			// Obtains the blacklist document in the public assets and renders it
-			$("#blacklist-nav").click(() => {
-				$.get("public/assets/lists/blacklist.md", renderMarkdown({newState: "Blacklist"}));
-			})
-
-			function renderMarkdown(params = {}) {
-				const { newState = "Home" } = params;
-
-				const isList = newState === "Blacklist" || newState === "Whitelist";
-
-				return function (file) {
-					stateManagement.innerText = newState;
-					// filter the markdown table using a Regular Expression
-					// this is meant to allow certain content to show up in the repo but not in the site
-					// by setting the flags <!-- RENDER START --> and <!-- RENDER END -->
-					const tableRegex = /<!-- RENDER START -->([\S\s]*?)<!-- RENDER END -->/;
-					const match = file.match(tableRegex);
-					const tableMD = (match.length > 1) ? match[1] : "Table wasn't loaded properly 😬";
-	
-					// render the markdown into HTML
-					const render = (new showdown.Converter({ tables: true })).makeHtml(tableMD);
-	
-					// replace the main content with the rendered .md
-					$(" #lists ").html(render);
-					$(" #lists table ").addClass("table table-hover");
-					
-					// Allows testing of the blacklist and whitelist buttons in dev environment
-					if(isProd && isList) {
-						location.href = "https://caffeine-overload.github.io/bandinchina#lists";
-					} else if(!isProd && isList){
-						location.href = `${location.origin}${location.pathname}#lists`;
-					}
-				}
-			}
-
-
-    </script>
+		<script src="./script.js"></script>
 
   </body>
 </html>
