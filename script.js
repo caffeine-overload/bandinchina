@@ -3,13 +3,17 @@ const BLACKLIST = "blacklist";
 const WHITELIST = "whitelist";
 const HOME = "home";
 
+// URLs
 const whitelistRawDataUrl =
   "https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/whitelist.md";
 const blacklistRawDataUrl =
   "https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/blacklist.md";
 const readmeURL = "./README.md";
+
+// Regular expression used to find out where to start rendering content and where to end
 const tableRegex = /<!-- RENDER START -->([\S\s]*?)<!-- RENDER END -->/;
 
+// Uses the production URL to set the "is production" flag
 const isProd = window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1;
 const validHashes = [BLACKLIST, WHITELIST];
 
@@ -43,9 +47,11 @@ if (!isProd) {
 // Renders the content based on the state; mainly for sharing link wanting to render specific content
 switch (stateManagement.innerText) {
   case BLACKLIST:
+    // Obtains the blacklist document in the public assets and renders it on initial render
     $.get(blacklistRawDataUrl, renderMarkdown({ newState: BLACKLIST }));
     break;
   case WHITELIST:
+    // Obtains the whitelist document in the public assets and renders it on initial render
     $.get(whitelistRawDataUrl, renderMarkdown({ newState: WHITELIST }));
     break;
   default:
