@@ -17,14 +17,14 @@ const tableRegex = /<!-- RENDER START -->([\S\s]*?)<!-- RENDER END -->/;
 const isProd = window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1;
 const validHashes = [BLACKLIST, WHITELIST];
 
-// Hash is used so sharing links using "/bandinchina/#blacklist" will render the blacklist
+// Hash is used so sharing links using "/bandinchina#blacklist" will render the blacklist
 const urlHash = window.location.hash.slice(1); // Removes the hash
 
 let stateManagement = $("#current-page")[0];
 let initialRender = true;
 
 // Changes the state if the hash matches
-if (validHashes.indexOf(urlHash)) {
+if (validHashes.indexOf(urlHash) > -1) {
   stateManagement.innerText = urlHash;
 }
 
@@ -43,7 +43,7 @@ if (!isProd) {
     });
   });
 }
-
+console.log('cowman', stateManagement.innerText, urlHash);
 // Renders the content based on the state; mainly for sharing link wanting to render specific content
 switch (stateManagement.innerText) {
   case BLACKLIST:
