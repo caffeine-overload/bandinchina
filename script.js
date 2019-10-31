@@ -1,7 +1,16 @@
 const isProd = window.location.href.indexOf("https://caffeine-overload.github.io/bandinchina") > -1;
-const stateManagement = $("#current-page")[0];
+const validHashes = ["blacklist", "whitelist"];
 
+// Hash is used so sharing links using "/bandinchina/#blacklist" will render the blacklist
+const urlHash = window.location.hash.slice(1); // Removes the hash
+
+let stateManagement = $("#current-page")[0];
 let initialRender = true;
+
+// Changes the state if the hash matches
+if(validHashes.indexOf(urlHash)) {
+  stateManagement.innerText = urlHash;
+}
 
 // Changes the links in dev environment for testing purposes
 if(!isProd) {
@@ -12,25 +21,36 @@ if(!isProd) {
 
     // Prevents re-rendering of the same "home" content
     link.click(() => {
-      if(stateManagement.innerText !== "Home") {
+      if(stateManagement.innerText !== "home") {
         $.get("./README.md", renderMarkdown());
       }
     })
   })
 }
 
-// Obtains the README file and renders it
-$.get("./README.md", renderMarkdown());
+// Renders the content based on the state; mainly for sharing link wanting to render specific content
+switch(stateManagement.innerText) {
+  case "blacklist":
+    $.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/blacklist.md", renderMarkdown({newState: "blacklist"}));
+    break;
+  case "whitelist":
+    $.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/whitelist.md", renderMarkdown({newState: "whitelist"}));
+    break;
+  default:
+    // Obtains the README file and renders it
+    $.get("./README.md", renderMarkdown());
+    break;
+}
 
 // Obtains the whitelist document in the public assets and renders it
 $("#whitelist-nav").click(e => {
-  $.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/whitelist.md", renderMarkdown({newState: "Whitelist"}));
+  $.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/whitelist.md", renderMarkdown({newState: "whitelist"}));
   return false;
 })
 
 // Obtains the blacklist document in the public assets and renders it
 $("#blacklist-nav").click(e => {
-  $.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/blacklist.md", renderMarkdown({newState: "Blacklist"}));
+  $.get("https://raw.githubusercontent.com/caffeine-overload/bandinchina/master/public/assets/lists/blacklist.md", renderMarkdown({newState: "blacklist"}));
   return false;
 })
 
@@ -44,9 +64,9 @@ $("#home-nav").click(e => {
 })
 
 function renderMarkdown(params = {}) {
-  const { newState = "Home" } = params;
+  const { newState = "home" } = params;
 
-  const isList = newState === "Blacklist" || newState === "Whitelist";
+  const isList = newState === "blacklist" || newState === "whitelist";
 
   return function (file) {
     stateManagement.innerText = newState;
