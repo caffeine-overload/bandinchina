@@ -24,7 +24,8 @@ img {
   max-width: 1300px;
 }
 
-header, footer {
+header,
+footer {
   width: 100%;
 }
 
