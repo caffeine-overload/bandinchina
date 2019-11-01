@@ -43,7 +43,7 @@ if (!isProd) {
     });
   });
 }
-console.log('cowman', stateManagement.innerText, urlHash);
+console.log("cowman", stateManagement.innerText, urlHash);
 // Renders the content based on the state; mainly for sharing link wanting to render specific content
 switch (stateManagement.innerText) {
   case BLACKLIST:
@@ -85,10 +85,10 @@ function renderMarkdown(params = {}) {
 
   return function(file) {
     stateManagement.innerText = newState;
+
     // filter the markdown table using a Regular Expression
     // this is meant to allow certain content to show up in the repo but not in the site
     // by setting the flags <!-- RENDER START --> and <!-- RENDER END -->
-
     const match = file.match(tableRegex);
     const tableMD = match.length > 1 ? match[1] : "Table wasn't loaded properly 😬";
 
@@ -96,13 +96,13 @@ function renderMarkdown(params = {}) {
     const render = new showdown.Converter({ tables: true }).makeHtml(tableMD);
 
     // replace the main content with the rendered .md
-    $(" #content ").html(render);
-    $(" #content table ").addClass("table table-hover");
+    $("#content").html(render);
+    $("#content table").addClass("table table-hover");
 
     if (initialRender) {
       initialRender = false;
     } else {
-      location.href = "#content";
+      location.href = `#${newState}`;
     }
   };
 }
