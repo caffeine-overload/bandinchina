@@ -43,7 +43,7 @@ if (!isProd) {
     });
   });
 }
-console.log("cowman", stateManagement.innerText, urlHash);
+
 // Renders the content based on the state; mainly for sharing link wanting to render specific content
 switch (stateManagement.innerText) {
   case BLACKLIST:
