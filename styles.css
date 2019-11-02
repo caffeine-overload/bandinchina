@@ -50,3 +50,29 @@ footer {
 .tablesorter-header {
   cursor: pointer;
 }
+
+.tablesorter-header-inner {
+  display: inline;
+}
+
+.tablesorter-headerUnSorted::after,
+.tablesorter-headerAsc::after,
+.tablesorter-headerDesc::after {
+  font-family: "FontAwesome";
+  padding-left: 10px;
+}
+
+.tablesorter-headerUnSorted::after {
+  content: "\f0dc";
+  color: #ddd
+}
+
+.tablesorter-headerAsc::after {
+  content: "\f0de";
+  color: #aaa
+}
+
+.tablesorter-headerDesc::after {
+  content: "\f0dd";
+  color: #aaa
+}
