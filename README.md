@@ -195,7 +195,7 @@
 <p><br />
 </a></p>
 
-<p>4.1 Write to your <a href="https://www.parliament.uk/get-involved/contact-your-mp/">[Members of Parliament]</a> (UK)</p>
+<p>4.1 <a href="https://www.parliament.uk/get-involved/contact-your-mp/">[Write]</a> or <a href="https://www.writetothem.com/">[Email]</a> your <a href="https://www.theyworkforyou.com/mps/">[local Member of Parliament]</a> (UK)</p>
 
 <p>4.2 <a href="https://petition.standwithhk.org">[Petition UK]</a> to Uphold the 1984 Sino-British Joint Declaration</p>
 
