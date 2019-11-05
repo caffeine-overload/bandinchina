@@ -195,13 +195,11 @@
 <p><br />
 </a></p>
 
-<p>4.1 Write to your [[Members of Parliament]](https://www.parliament.uk/get-involved/contact-your-mp/
-) (UK)</p>
+<p>4.1 <a href="https://www.parliament.uk/get-involved/contact-your-mp/">[Write]</a> or <a href="https://www.writetothem.com/">[Email]</a> your <a href="https://www.theyworkforyou.com/mps/">[local Member of Parliament]</a> (UK)</p>
 
 <p>4.2 <a href="https://petition.standwithhk.org">[Petition UK]</a> to Uphold the 1984 Sino-British Joint Declaration</p>
 
-<p>4.3 [[Petition Liz Truss]](https://you.38degrees.org.uk/petitions/uk-should-safeguard-human-rights-and-rule-of-law-in-hong-kong-in-future-trade-deals
-) from Department of International Trade and Dominic Raab from Foreign and Commonwealth Office to Stand up for Human Rights in Hong Kong</p>
+<p>4.3  <a href="https://you.38degrees.org.uk/petitions/uk-should-safeguard-human-rights-and-rule-of-law-in-hong-kong-in-future-trade-deals">[Petition Liz Truss from Department of International Trade and Dominic Raab from Foreign and Commonwealth Office]</a> to Stand up for Human Rights in Hong Kong</p>
 
 <hr />
 
@@ -311,11 +309,8 @@
 
 <p>10.1 Switzerland Write to your <a href="https://www.parlament.ch/en/ratsmitglieder?k=">[local representatives]</a></p>
 
-<p>10.2 Japan Write to your local representatives and councilors</p>
-
-<p>http://www.shugiin.go.jp/internet/itdb<em>english.nsf/html/statics/member/mem</em>a.htm</p>
-
-<p>https://www.sangiin.go.jp/japanese/joho1/kousei/eng/members/index.htm</p>
+<p>10.2 Japan Write to your local representatives and councilors in <a href="http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm">[English]</a> or <a href="https://www.sangiin.go.jp/japanese/joho1/kousei/eng/members/index.htm">[Japanese]</a>
+</p>
 
 <p>10.3 Petition Japanese parliamentarians to introduce a Hong Kong Human Rights and Democracy Bill in Japan <a href="https://www.change.org/p/%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1-%E9%A6%99%E6%B8%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E6%A8%A9%E7%9A%84%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E3%81%91%E3%82%93%E5%88%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81-%E6%97%A5%E6%9C%AC%E7%89%88-%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%A8%A9-%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E6%B3%95%E6%A1%88-%E3%81%AE%E8%AD%B0%E8%AB%96%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%AB%E6%B1%82%E3%82%81%E3%81%BE%E3%81%99?utm_content=cl_sharecopy_17285742_ja-JP%3Av1&amp;recruiter=34591470&amp;recruited_by_id=e96e94b0-151b-0130-6dd2-3c764e049c4f&amp;utm_source=share_petition&amp;utm_medium=copylink&amp;utm_campaign=psf_combo_share_initial">[Petition Japan]</a></p>
 
