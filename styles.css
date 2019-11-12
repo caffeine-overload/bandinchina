@@ -29,21 +29,32 @@ footer {
   width: 100%;
 }
 
+.table-wrap {
+  overflow-y: auto;
+}
+.table-wrap table thead tr th {
+  background: white;
+}
+.table-wrap table th {
+  position: sticky;
+  top: -4px;
+}
+
 .table td {
   vertical-align: middle;
 }
 
 .table th,
-.table td:first-child {
+.table td.entity-name {
   font-weight: bold;
 }
 
-.table td:nth-child(2),
-.table td:nth-child(3) {
+.table td.occured,
+.table td.added {
   white-space: nowrap;
 }
 
-.table td:nth-child(4) {
+.table td.reason {
   text-align: left;
 }
 
@@ -75,4 +86,11 @@ footer {
 .tablesorter-headerDesc::after {
   content: "\f0dd";
   color: #aaa
+}
+
+@media screen and (max-width: 768px) {
+  .table td.reason {
+    min-width: 16rem;
+    min-width: 80vw;
+  }
 }
