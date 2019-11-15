@@ -23,6 +23,63 @@ const urlHash = window.location.hash.slice(1); // Removes the hash
 let stateManagement = $("#current-page")[0];
 let initialRender = true;
 
+/**
+ * Returns value or def, if value isNaN
+ * @param {number} def default to use when number isNaN
+ * @param {any} value number to try to use
+ * @returns {number}
+ */
+function numberOrDefault(def, value) {
+  if (isNaN(value))
+    return def;
+  return value;
+}
+
+/**
+ * Add classes to table cells based on heading text bound to classes
+ * @param {{[key: string]: string}} headersHash optional hash that binds text to classes
+ * @returns void
+ */
+function classifyColumns(headersHash = {
+  'Blacklisted Company': 'entity-name',
+  'Whitelisted Company': 'entity-name',
+  'University': 'entity-name',
+  'Date Occurred': 'occured',
+  'Date Added': 'addedd',
+  'Why added': 'reason',
+  'Sources': 'sources',
+}) {
+  const $table = $("#content table");
+  const classes = $table.find('thead th').toArray()
+    .map(function(value, index) {
+      const $heading = $(value);
+      const text = $heading.text();
+      if (headersHash[text])
+        return [headersHash[text], index];
+      else return ['', index];
+    });
+
+  function createClassesIterator($children) {
+    /**
+     * @param {[string, number]} val class-index pair
+     */
+    function iterateClass(val) {
+      const [classname, index] = val;
+      $children.eq(index).addClass(classname)
+    }
+    return iterateClass
+  }
+  /**
+   * jQuery .each iterator
+   */
+  function addClassesToRow() {
+    const $children = $(this).children()
+    classes.forEach(createClassesIterator($children));
+  }
+
+  $("#content table tr").each(addClassesToRow);
+}
+
 // Changes the state if the hash matches
 if (validHashes.indexOf(urlHash) > -1) {
   stateManagement.innerText = urlHash;
@@ -101,6 +158,17 @@ function renderMarkdown(params = {}) {
 
     // sort the table by first column ascending
     $(" #content table ").tablesorter({ sortList: [[0, 0]] });
+
+    if ($(window).width() < 768) {
+      let height = numberOrDefault(
+        400,
+        $(window).height() - $('footer.text-muted').height() - $('#content > h2').height() - 64,
+      );
+      const $wrap = $("<div>").addClass('table-wrap').css('height', height);
+      $("#content table").wrap($wrap);
+    }
+
+    classifyColumns();
 
     if (initialRender) {
       initialRender = false;
