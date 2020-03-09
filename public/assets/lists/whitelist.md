@@ -17,5 +17,6 @@ This list is for companies who have stood up to Chinese censorship demands and r
 | Mitsubishi Motors Taiwan | 2019-10-30 | Ended Blizzard sponsorship after Hong Kong player ban | <ul><li>[Daily Beast](https://www.thedailybeast.com/blizzard-sponsor-mitsubishi-bailed-after-the-company-punished-pro-hong-kong-gamer-blitzchung)</li></ul> |
 | Notepad++ | 2019-11-01 | Stand up for human rights and released a version named 'Free Uyghur' | <ul><li>[The Verge](https://www.theverge.com/2019/10/30/20940651/text-editor-notepad-free-uyghur-edition-china-spam)</li></ul> |
 | Swedish Government | 2019-11-15 | Refused to back down after being threatened by China with "counter-measures" over culture prize to Chinese author Gui Minhai | <ul><li>[The Local](https://www.thelocal.se/20191115/china-threatens-sweden-over-prize-to-dissident-author)</li><li>[SVT Nyheter](https://www.svt.se/nyheter/inrikes/statsminister-stefan-lofven-s-vi-tanker-inte-falla-for-den-har-typen-av-hot)</li></ul> |
+| Estonian Government | 2020-02-18 | Rejected Chinese embassy requests to change Foreign Intelligence Service yearbook | <ul><li>[ERR News](https://news.err.ee/1036423/chinese-embassy-requests-changes-to-foreign-intelligence-service-yearbook)</li><li>[ERR News](https://news.err.ee/1036478/foreign-minister-rejects-china-embassy-intelligence-service-criticisms)</li></ul> |
 
 <!-- RENDER END -->
