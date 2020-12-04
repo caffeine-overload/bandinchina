@@ -84,39 +84,33 @@
 <p><br />
 </a></p>
 
-<p>1.1 Write to Carrie Lam urging her to IMMEDIATELY WITHDRAW the extradition bill <a href="https://www.amnesty.org/en/get-involved/take-action/stop-the-hong-kong-extradition-bill/">[Amnesty International]</a></p>
+<p>1.1 Petition United Nations to Condemn Hong Kong Police for Excessive Use of Force and Call for an Independent Inquiry <a href="https://www.change.org/p/condemn-hong-kong-police-for-excessive-force-against-citizens-call-for-independent-inquiry">[Petition United Nation]</a></p>
 
-<p>1.2 Petition United Nations to Condemn Hong Kong Police for Excessive Use of Force and Call for an Independent Inquiry <a href="https://www.change.org/p/condemn-hong-kong-police-for-excessive-force-against-citizens-call-for-independent-inquiry">[Petition United Nation]</a></p>
+<p>1.2 Request International Court of Justice to Investigate Excessive Force of Hong Kong Police <a href="https://www.change.org/p/international-court-of-justice-request-international-court-of-justice-to-investigate-excessive-force-of-hong-kong-police">[Petition International Court of Justice]</a></p>
 
-<p>1.3 Request International Court of Justice to Investigate Excessive Force of Hong Kong Police <a href="https://www.change.org/p/international-court-of-justice-request-international-court-of-justice-to-investigate-excessive-force-of-hong-kong-police">[Petition International Court of Justice]</a></p>
+<p>1.3 Cancel or postpone your trip to Hong Kong until the HK government meets all 5 Main Demands of the protesters. Do not give your money to Carrie Lam's government.</p>
 
-<p>1.4 Cancel or postpone your trip to Hong Kong until the HK government meets all 5 Main Demands of the protesters. Do not give your money to Carrie Lam's government.</p>
+<p>1.4 Support RTHK (Radio Television Hong Kong) editorial independence <a href="https://www.change.org/p/hong-kong-people-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0-%E4%B8%80%E7%9B%B4%E7%A7%89%E6%8C%81%E7%B7%A8%E8%BC%AF%E8%87%AA%E4%B8%BB-%E6%96%B0%E8%81%9E%E6%99%82%E4%BA%8B%E7%AF%80%E7%9B%AE%E4%B8%8D%E5%81%8F%E4%B8%8D%E5%80%9A-%E4%B8%8D%E7%82%BA%E6%94%BF%E5%BA%9C%E5%96%89%E8%88%8C-%E4%B8%8D%E5%8F%97%E5%95%86%E6%A5%AD%E5%BD%B1%E9%9F%BF-%E4%BD%86%E7%82%BA%E5%B8%82%E6%B0%91%E7%99%BC%E8%81%B2">[Petition for Editorial Independence]</a></p>
 
-<p>1.5 Support RTHK (Radio Television Hong Kong) editorial independence <a href="https://www.change.org/p/hong-kong-people-%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0-%E4%B8%80%E7%9B%B4%E7%A7%89%E6%8C%81%E7%B7%A8%E8%BC%AF%E8%87%AA%E4%B8%BB-%E6%96%B0%E8%81%9E%E6%99%82%E4%BA%8B%E7%AF%80%E7%9B%AE%E4%B8%8D%E5%81%8F%E4%B8%8D%E5%80%9A-%E4%B8%8D%E7%82%BA%E6%94%BF%E5%BA%9C%E5%96%89%E8%88%8C-%E4%B8%8D%E5%8F%97%E5%95%86%E6%A5%AD%E5%BD%B1%E9%9F%BF-%E4%BD%86%E7%82%BA%E5%B8%82%E6%B0%91%E7%99%BC%E8%81%B2">[Petition for Editorial Independence]</a></p>
+<p>1.5 Join <a href="https://twitter.com/Eye4HK">[#Eye4HK]</a> Campaign]</p>
 
-<p>1.6 Join <a href="https://twitter.com/Eye4HK">[#Eye4HK]</a> Campaign]</p>
+<p>1.6 Revoke Carrie Lam's Legion of Honor Award (France) <a href="https://www.change.org/p/the-grand-chancery-of-the-legion-of-honor-revoke-hong-kong-chief-executive-carrie-lam-s-legion-of-honor-distinction-19c4dc0e-f0ca-433a-9496-08e6705dbdeb">[Petition Grand Master of the Legion]</a></p>
 
-<p>1.7 Revoke Carrie Lam's Legion of Honor Award (France) <a href="https://www.change.org/p/the-grand-chancery-of-the-legion-of-honor-revoke-hong-kong-chief-executive-carrie-lam-s-legion-of-honor-distinction-19c4dc0e-f0ca-433a-9496-08e6705dbdeb">[Petition Grand Master of the Legion]</a></p>
+<p>1.7 Setup <a href="https://www.youtube.com/watch?v=e0NT-ewEMd4">[Lennon Wall]</a> (Post-it/Memo stickers) in your community</p>
 
-<p>1.8 Setup <a href="https://www.youtube.com/watch?v=e0NT-ewEMd4">[Lennon Wall]</a> (Post-it/Memo stickers) in your community</p>
+<p>1.8 Join and support your local #StandwithHongKong rallies. <a href="https://www.reddit.com/r/HongKong/comments/cwdb6i/another_big_global_rally_coming_up_lets_hold/?st=jzz6cvy8&amp;sh=bf4a01e8">[Global events/rallies near you]</a></p>
 
-<p>1.9 Join and support your local #StandwithHongKong rallies. <a href="https://www.reddit.com/r/HongKong/comments/cwdb6i/another_big_global_rally_coming_up_lets_hold/?st=jzz6cvy8&amp;sh=bf4a01e8">[Global events/rallies near you]</a></p>
+<p>1.9 Petition Amnesty for July 1st Legco Building Protesters <a href="https://www.change.org/p/please-help-support-unity-in-hong-kong-by-asking-legco-to-offer-amnesty-for-all-july-1st-2019-legco-protesters-%E7%82%BA%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E8%80%8C%E5%8A%AA%E5%8A%9B-%E8%AB%8B%E8%81%AF%E7%BD%B2%E8%A6%81%E6%B1%82%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E6%9C%83%E8%B5%A6%E5%85%8D2019%E5%B9%B47%E6%9C%881%E6%97%A5%E5%88%B0%E7%AB%8B%E6%B3%95%E6%9C%83%E4%B9%8B%E7%A4%BA%E5%A8%81%E8%80%85">[Petition Amnesty for Legco Protesters]</a></p>
 
-<p>1.10 Petition Amnesty for July 1st Legco Building Protesters <a href="https://www.change.org/p/please-help-support-unity-in-hong-kong-by-asking-legco-to-offer-amnesty-for-all-july-1st-2019-legco-protesters-%E7%82%BA%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E8%80%8C%E5%8A%AA%E5%8A%9B-%E8%AB%8B%E8%81%AF%E7%BD%B2%E8%A6%81%E6%B1%82%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E6%9C%83%E8%B5%A6%E5%85%8D2019%E5%B9%B47%E6%9C%881%E6%97%A5%E5%88%B0%E7%AB%8B%E6%B3%95%E6%9C%83%E4%B9%8B%E7%A4%BA%E5%A8%81%E8%80%85">[Petition Amnesty for Legco Protesters]</a></p>
+<p>1.10 Raise awareness of the Hong Kong protest. Spread the word to your friends, family, schoolmates, pray for Hong Kong with church, etc...</p>
 
-<p>1.11 Raise awareness of the Hong Kong protest. Spread the word to your friends, family, schoolmates, pray for Hong Kong with church, etc...</p>
-
-<p>1.12 Join <a href="https://www.reddit.com/r/HongKong/">[r/HongKong]</a> subscribe, like, thumbsup, follow, share pro-Democracy Hong Kong social media or channels</p>
+<p>1.11 Join <a href="https://www.reddit.com/r/HongKong/">[r/HongKong]</a> subscribe, like, thumbsup, follow, share pro-Democracy Hong Kong social media or channels</p>
 
 <p><code>#StandWithHongKong #Eye4HK #NoChinaExtradition #antiELAB #SOSHK #反送中 #FreeHongKong #StandwithHK #HKLastwords #SaveHongKong #HongKongProtest #DemocracyNow #NoExtraditionToChina #Shout4HK #Mask4HK #BoycottBlizzard</code></p>
 
-<p>1.14 Make Meme, posters, videos, drawings, sing a song to express your solidarity with Hong Kongers</p>
+<p>1.12 Make Meme, posters, videos, drawings, sing a song to express your solidarity with Hong Kongers</p>
 
-<p>1.15 Reporting HKPF to the International Police Association (IPA) for breach of professional code of conduct and excessive use of force <a href="https://www.change.org/p/international-police-association-reporting-misconduct-of-hong-kong-police-force-during-the-protest-in-hong-kong?recruiter=false&amp;utm_source=share_petition&amp;utm_medium=twitter&amp;utm_campaign=psf_combo_share_message&amp;utm_term=share_petition&amp;recruited_by_id=4e0f5610-c6bc-11e9-8ef7-4d89fc670684&amp;share_bandit_exp=message-16946662-en-US&amp;share_bandit_var=v3">[Petition International Police Association]</a></p>
-
-<p>1.16 Urge U.N. to Monitor Hong Kong's District Council Election on Nov 24th, 2019 to Fight Voter Suppression and Election Fraud <a href="https://petitions.whitehouse.gov/petition/urge-un-monitor-hong-kongs-district-council-election-112419-fight-voter-suppression-and-election-fraud">[Petition for clean and fair district election]</a></p>
-
-<p>1.17 Petition to terminate franchise Starbucks to Maxim's in Hong Kong <a href="https://www.change.org/p/management-and-shareholders-of-starbucks-starbucks-to-stop-giving-franchise-to-hong-kong-maxim-s-group-%E8%81%AF%E7%BD%B2%E8%A6%81%E6%B1%82starbucks-%E5%81%9C%E6%AD%A2%E7%BE%8E%E5%BF%83%E5%9C%A8%E6%B8%AF%E5%B0%88%E7%87%9F%E6%AC%8A">[Change.org Starbucks]</a></p>
+<p>1.13 Petition to terminate franchise Starbucks to Maxim's in Hong Kong <a href="https://www.change.org/p/management-and-shareholders-of-starbucks-starbucks-to-stop-giving-franchise-to-hong-kong-maxim-s-group-%E8%81%AF%E7%BD%B2%E8%A6%81%E6%B1%82starbucks-%E5%81%9C%E6%AD%A2%E7%BE%8E%E5%BF%83%E5%9C%A8%E6%B8%AF%E5%B0%88%E7%87%9F%E6%AC%8A">[Change.org Starbucks]</a></p>
 
 <hr />
 
